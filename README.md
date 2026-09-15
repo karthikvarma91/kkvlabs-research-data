@@ -14,7 +14,10 @@ README before quoting a figure.
 ## The industries
 
 **Med spas.** 245 cities screened, 1,352 of 1,531 homepages read, 341 named versus 1,011
-unnamed [STACK-FINDINGS-2026-09-10.md]. Clinics on Zenoti or Boulevard booking software are
+unnamed [STACK-FINDINGS-2026-09-10.md]. In `cities.csv`, `sitesScreened` and `clinicsNamed` are
+different populations (our screening list versus who the AI named) and are not meant to
+reconcile city by city; see `datasets/medspa/README.md` before comparing them. Clinics on
+Zenoti or Boulevard booking software are
 about twice as common among AI-named med spas as among the rest (Zenoti 10 vs 6 percent,
 Boulevard 10 vs 5) [STACK-FINDINGS-2026-09-10.md]. Only 40 percent of med spas show a price
 anywhere on the site, and it makes no difference to being named [STACK-FINDINGS-2026-09-10.md].

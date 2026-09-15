@@ -48,6 +48,24 @@ the build pipeline enforces this by taking the max of the two
 No clinic names or domains are in this file: the count named is the finding, not a directory
 of who was named [medspa-cities.json/data.csv route].
 
+### Column definitions: sitesScreened versus clinicsNamed
+
+`sitesScreened` counts med spa websites from our own screening list found in that city.
+`clinicsNamed` counts clinics Google AI Mode named in its answer for that city. These are two
+different populations: the AI can name a clinic that was never on our screening list at all (a
+big chain, a med-adjacent practice, a business with no website we crawled), and it commonly
+does. That is why `clinicsNamed` exceeds `sitesScreened` in 41 of the 245 cities, most visibly
+in Traverse City, MI (`sitesScreened=1`, `clinicsNamed=4`): one med spa site was on our
+screening list for that city, but Google AI Mode named four clinics in its answer, only one of
+which needed to be the same business we screened. This is confirmed in the build pipeline,
+`kkvlabs-outreach/tools/build_city_data.py`: `sitesScreened` (`leads`) is
+`max(leads_list_count, checked_count)` from the screening list, while `clinicsNamed`
+(`aiNamed`) is read independently from `tools/ai-named.jsonl`, the raw AI Mode answers, with no
+join back to the screening list. The two columns are not meant to reconcile against each other,
+and no fix is needed; a reader comparing them city by city should read `sitesScreened` as "our
+screening coverage" and `clinicsNamed` as "what the AI said," not as a found-versus-named count
+of the same population.
+
 ### stack.csv column dictionary
 
 | Column | Meaning |
@@ -61,16 +79,14 @@ of who was named [medspa-cities.json/data.csv route].
 
 ## Known limitations
 
-- **Oxygen builder count is a known false positive, pending a re-crawl.** The published figure
-  in `stack.csv` (builders section, "Oxygen") is 28 sites, corrected down from a first published
-  31 after a signature bug (matching GoDaddy's own `CONTACT_SECTION_TITLE_REND` heading id as if
-  it were the Oxygen builder) was found and fixed. 27 of the original 31 flagged sites cannot be
-  re-read offline because HTML caching only started after the 2026-09-10 run, and 25 of those 27
-  are recorded as GoDaddy Website Builder, so they are almost certainly the same false positive.
-  The true count is expected to be about 3, which would put Oxygen below the 10-site floor the
-  builders table uses and drop it from the table altogether. Do not quote an Oxygen figure until
-  the 27 are re-crawled [STACK-FINDINGS-2026-09-10.md]. The value in `stack.csv` is the current
-  published figure (28), not the corrected estimate.
+- **Oxygen builder count, resolved 2026-09-15.** A signature bug (matching GoDaddy's own
+  `CONTACT_SECTION_TITLE_REND` heading id as if it were the Oxygen builder) had inflated the
+  published figure to 31, then 28 after a partial cache-based recompute. The remaining 27
+  flagged sites (uncached at the time) were re-crawled live on 2026-09-15: 26 were confirmed
+  GoDaddy Website Builder false positives and 1 was confirmed real WordPress plus Oxygen. True
+  count: **2 sites**, below the 10-site floor the builders table uses, so Oxygen no longer
+  appears in `stack.csv`'s builders section at all [STACK-FINDINGS-2026-09-10.md, "Re-crawl
+  2026-09-15" section].
 - Homepage only. A booking tool behind a "Book now" page, a price on a menu page, or a
   credential on the About page is not counted. Every technology share is a floor
   [STACK-FINDINGS-2026-09-10.md].

@@ -71,6 +71,11 @@ Only cities with a captured AI answer are included, matching the live data.csv r
   catch up on [CHIROPRACTIC-INDEX-FINDINGS-2026-09-12.md].
 - Homepage only, detection by known scripts and links; every technology share is a floor
   [CHIROPRACTIC-INDEX-FINDINGS-2026-09-12.md].
+- **sitesFailed reconciliation.** `chiropractors-stack.json`'s `sitesFailed` is 45, while
+  CHIROPRACTIC-INDEX-FINDINGS-2026-09-12.md's prose calls out "30 other failures" separately.
+  These reconcile: the JSON bundles the doc's 30 other failures (dead DNS, timeouts, dead TLS,
+  HTTP errors, stubs) together with the 15 sites that answered but gave back nothing readable
+  (30 + 15 = 45).
 - 39 of 40 cities came back GREEN and 1 YELLOW in this run; small-city tiers can rest on a
   handful of names, so read the exact counts in `cities.csv` before quoting a percentage
   [CHIROPRACTIC-INDEX-FINDINGS-2026-09-12.md].

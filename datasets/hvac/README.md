@@ -69,6 +69,10 @@ kkvlabs-outreach/tools/build_city_data.py].
   [HVAC-INDEX-FINDINGS-2026-09-12.md].
 - Homepage only, detection by known scripts and links; every technology share is a floor
   [HVAC-INDEX-FINDINGS-2026-09-12.md].
+- **sitesFailed reconciliation.** `hvac-stack.json`'s `sitesFailed` is 31, while
+  HVAC-INDEX-FINDINGS-2026-09-12.md's prose calls out "24 other failures" separately. These
+  reconcile: the JSON bundles the doc's 24 other failures (dead TLS handshakes, timeouts, dead
+  DNS) together with the 7 sites that answered but gave back nothing readable (24 + 7 = 31).
 - No canonical live report page exists yet for this industry; treat this dataset as pre-release
   until kkvlabs.com publishes `/research/hvac-ai-visibility-index-2026` (or similar).
 

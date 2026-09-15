@@ -61,6 +61,11 @@ Only cities with a captured AI answer are included, matching the live data.csv r
 
 ## Known limitations
 
+- **sitesRead reconciliation.** `law-firms-stack.json`'s `sitesRead` is 685, while
+  LAW-FIRMS-INDEX-FINDINGS-2026-09-11.md's prose says "709 read." These reconcile: 709 is the
+  raw read count before the relevance gate, and 24 of those 709 were dropped afterward as
+  off-niche (not personal injury firms), leaving 685 (709 - 24 = 685); `sitesOffNiche: 24`
+  already carries that drop as its own field in the JSON.
 - Every one of the 60 cities checked came back GREEN, no YELLOW, no RED, 297 firms named in all,
   a median of 5 per city, so there is no empty city in this market to point a discovery pitch at
   [LAW-FIRMS-INDEX-FINDINGS-2026-09-11.md].
