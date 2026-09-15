@@ -1,5 +1,7 @@
 # KKV Labs AI Local Visibility Index Datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22765584.svg)](https://doi.org/10.5281/zenodo.22765584)
+
 September 2026 edition. Six industries, one question each: when someone asks Google AI Mode a
 buying question in a given city, does it name a local business, and which one. Paired with a
 homepage technology and content crawl of the same industry, so a claim of visibility can be
@@ -70,8 +72,8 @@ see `datasets/hvac/README.md`.
 ## How to cite
 
 KKV Labs (2026). AI Local Visibility Index datasets, September 2026 edition. Karthik Varma, KKV
-Labs LLC. https://www.kkvlabs.com/research (DOI to be added after the Zenodo release). Licence
-CC BY 4.0.
+Labs LLC. https://www.kkvlabs.com/research. DOI 10.5281/zenodo.22765584 (this version) and
+10.5281/zenodo.22765583 (all versions). Licence CC BY 4.0.
 
 See also `CITATION.cff` and `.zenodo.json`.
 
