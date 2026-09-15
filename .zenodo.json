@@ -6,15 +6,76 @@
       "affiliation": "KKV Labs LLC"
     }
   ],
-  "description": "City-by-city data on whether Google AI Mode names a local business when asked a buying question, paired with a homepage technology and content crawl, across six industries: med spas, roofers, dentists, personal injury law firms, chiropractors and HVAC contractors. September 2026 edition.",
+  "description": "City-by-city data on whether Google AI Mode names a local business when asked a buying question, paired with a same-day homepage technology and content crawl, across six industries: med spas, roofers, dentists, personal injury law firms, chiropractors and HVAC contractors. September 2026 edition. <p>Canonical reports and method: <a href=\"https://www.kkvlabs.com/research\">https://www.kkvlabs.com/research</a>. Flagship summary: <a href=\"https://www.kkvlabs.com/research/ai-local-visibility-report-2026\">AI Local Visibility Report 2026</a>. Per-industry reports: <a href=\"https://www.kkvlabs.com/research/med-spa-ai-visibility-index-2026\">med spas</a>, <a href=\"https://www.kkvlabs.com/research/roofing-ai-visibility-index-2026\">roofers</a>, <a href=\"https://www.kkvlabs.com/research/dental-ai-visibility-index-2026\">dentists</a>, <a href=\"https://www.kkvlabs.com/research/law-firm-ai-visibility-index-2026\">personal injury law firms</a>, <a href=\"https://www.kkvlabs.com/research/chiropractic-ai-visibility-index-2026\">chiropractors</a>, <a href=\"https://www.kkvlabs.com/research/hvac-ai-visibility-index-2026\">HVAC contractors</a>. Source code for the export: <a href=\"https://github.com/karthikvarma91/kkvlabs-research-data\">github.com/karthikvarma91/kkvlabs-research-data</a>. Published by KKV Labs LLC, Newark, Delaware.</p>",
   "keywords": [
     "AI visibility",
     "generative engine optimization",
     "local business",
     "ChatGPT",
-    "Google AI Mode"
+    "Google AI Mode",
+    "answer engine optimization",
+    "AEO",
+    "GEO",
+    "AI search",
+    "local SEO",
+    "med spa",
+    "roofing",
+    "dental",
+    "law firm",
+    "chiropractic",
+    "HVAC",
+    "open data"
   ],
   "license": "cc-by-4.0",
   "upload_type": "dataset",
-  "version": "2026.09"
+  "version": "2026.09",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.kkvlabs.com/research",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/ai-local-visibility-report-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/med-spa-ai-visibility-index-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/roofing-ai-visibility-index-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/dental-ai-visibility-index-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/law-firm-ai-visibility-index-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/chiropractic-ai-visibility-index-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://www.kkvlabs.com/research/hvac-ai-visibility-index-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://github.com/karthikvarma91/kkvlabs-research-data",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    }
+  ],
+  "publisher": "KKV Labs LLC",
+  "notes": "Every figure in the linked reports traces to these files. Column definitions and known limitations are in each dataset README."
 }
