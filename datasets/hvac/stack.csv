@@ -1,0 +1,227 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,315,62,72,58
+platform,Custom or unknown,81,16,16,16
+platform,Duda,52,10,5,12
+platform,Webflow,19,4,5,3
+platform,Wix,18,4,1,4
+platform,Squarespace,10,2,0,3
+platform,GoDaddy Website Builder,5,1,0,1
+platform,Joomla,5,1,1,1
+builders,Gutenberg blocks,293,58,68,54
+builders,Elementor,110,22,29,19
+builders,Divi,42,8,7,9
+builders,Beaver Builder,26,5,5,5
+builders,WPBakery,16,3,2,4
+vendors,HighLevel agency site,20,4,9,2
+vendors,RYNO Strategic Solutions,19,4,6,3
+vendors,Thryv,14,3,1,4
+vendors,Scorpion,11,2,3,2
+vendors,Blue Corona,5,1,2,1
+vendors,iMarket Solutions,5,1,3,0
+vendors,Online Access,4,1,1,1
+vendors,Mediagistic,3,1,1,1
+vendors,Rival Digital,2,0,1,0
+crm,ServiceTitan,68,13,22,10
+crm,ServiceTitan scheduler,49,10,15,8
+crm,Housecall Pro,33,7,4,8
+crm,Schedule Engine,33,7,14,4
+crm,Payzer,10,2,3,2
+crm,Jobber,3,1,0,1
+crm,Sera Systems,2,0,1,0
+crm,Successware,2,0,0,1
+chat,Podium,48,9,13,8
+chat,Birdeye,12,2,3,2
+chat,Facebook Messenger chat,3,1,0,1
+leadCapture,Gravity Forms,97,19,26,16
+leadCapture,Contact Form 7,67,13,12,14
+leadCapture,WPForms,22,4,3,5
+leadCapture,Formidable Forms,19,4,6,3
+leadCapture,Ninja Forms,6,1,1,1
+pixels,Google Tag Manager,309,61,77,54
+pixels,Google Analytics 4,173,34,34,34
+pixels,Meta pixel,79,16,16,15
+pixels,Google Ads tag,62,12,13,12
+pixels,CallRail,39,8,11,6
+pixels,Microsoft Clarity,25,5,7,4
+pixels,Bing UET,19,4,4,4
+pixels,Hotjar,8,2,3,1
+pixels,Nextdoor pixel,6,1,3,1
+pixels,CallTrackingMetrics,5,1,1,1
+certifications,Years in business stated,314,62,64,61
+certifications,Family owned or locally owned stated,239,47,47,47
+certifications,Licensed and insured stated,111,22,21,22
+certifications,Satisfaction guarantee stated,98,19,22,18
+certifications,NATE certified,69,14,16,13
+certifications,Background checked or drug tested technicians,31,6,9,5
+certifications,EPA certified,18,4,3,4
+certifications,Veteran owned,17,3,3,4
+certifications,Woman owned,4,1,1,1
+brands,Trane named,70,14,16,13
+brands,Lennox named,54,11,11,10
+brands,Carrier named,51,10,10,10
+brands,Rheem named,34,7,5,8
+brands,Daikin named,31,6,5,6
+brands,American Standard named,24,5,3,5
+brands,Mitsubishi Electric named,23,5,7,4
+brands,Factory Authorized Dealer stated,22,4,5,4
+brands,Carrier Factory Authorized Dealer,21,4,6,3
+brands,Ruud named,20,4,1,5
+brands,Bryant named,18,4,1,4
+brands,Trane Comfort Specialist,16,3,4,3
+brands,Mitsubishi Diamond Dealer,10,2,3,1
+brands,Lennox Premier Dealer,7,1,1,2
+brands,Daikin Comfort Pro,7,1,2,1
+brands,Goodman named,6,1,2,1
+brands,Amana named,6,1,0,2
+brands,Bosch named,5,1,3,0
+brands,York named,4,1,0,1
+brands,Fujitsu named,3,1,1,1
+brands,Tempstar named,3,1,1,1
+financing,Synchrony,14,3,3,3
+financing,Service Finance,7,1,1,2
+financing,Optimus Financing,6,1,1,1
+financing,Hearth,5,1,0,1
+financing,GreenSky,5,1,1,1
+financing,Wisetack,4,1,1,1
+financing,FTL Finance,2,0,0,1
+financing,PayPal Credit,2,0,0,1
+reviewWidgets,BBB seal,102,20,20,20
+reviewWidgets,Trustindex,59,12,16,10
+reviewWidgets,Angi or HomeAdvisor,38,8,7,8
+reviewWidgets,Elfsight,29,6,4,6
+reviewWidgets,Nextdoor Neighborhood Fave badge,8,2,3,1
+reviewWidgets,NiceJob widget,3,1,1,1
+social,Facebook,424,84,92,80
+social,Google Maps,311,61,63,61
+social,Instagram,210,42,59,34
+social,YouTube,135,27,38,22
+social,Yelp,107,21,23,20
+social,LinkedIn,104,21,28,18
+social,TikTok,29,6,6,6
+social,Nextdoor,23,5,7,4
+services,AC repair,386,76,83,73
+services,Emergency or 24/7 service,379,75,77,74
+services,Financing offered,366,72,84,68
+services,AC installation or replacement,365,72,75,71
+services,Indoor air quality,362,72,78,69
+services,Heat pump work,329,65,74,61
+services,Ductless or mini split,318,63,71,59
+services,Seasonal tune up or maintenance,302,60,60,59
+services,Coupons or specials stated,287,57,67,53
+services,Maintenance plan or membership club stated,277,55,65,51
+services,Commercial HVAC,248,49,45,51
+services,Thermostat work,239,47,49,46
+services,Furnace repair or service,233,46,47,46
+services,Free estimate or quote offered,201,40,33,42
+services,Duct repair or sealing,191,38,43,35
+services,Water heater work,185,37,47,32
+services,Humidifier or dehumidifier,172,34,41,31
+services,Furnace installation or replacement,166,33,43,29
+services,Boiler work,156,31,36,28
+services,Warranty language,156,31,28,32
+services,Residential HVAC,141,28,24,29
+services,Plumbing offered,134,26,36,22
+services,Upfront or flat rate pricing stated,128,25,26,25
+services,Duct cleaning,123,24,30,22
+services,Rebates or tax credits named,103,20,24,19
+services,Geothermal,80,16,22,13
+services,Ventilation,79,16,13,17
+services,New construction work,78,15,17,15
+services,Same day service stated,75,15,17,14
+services,Electrical offered,63,12,20,9
+services,Refrigeration work,57,11,7,13
+services,Radiant or floor heating,41,8,11,7
+services,Insulation or energy audit,38,8,7,8
+services,No overtime charges stated,10,2,3,2
+weightBuckets,100 to 300 KB,272,54,56,53
+weightBuckets,300 to 700 KB,106,21,24,20
+weightBuckets,under 100 KB,101,20,17,21
+weightBuckets,700 KB to 1.5 MB,21,4,3,5
+weightBuckets,over 1.5 MB,6,1,0,2
+signals,Any field service or dispatch software detected,129,25,34,22
+signals,An online booking route on the homepage,292,58,65,55
+signals,"A live chat, text or answering widget",65,13,17,11
+signals,A form plugin detected,177,35,41,33
+signals,An HVAC website or marketing vendor detected,82,16,24,13
+signals,Any equipment brand named,222,44,47,43
+signals,Any manufacturer dealer tier claimed,63,12,16,11
+signals,Carrier named,51,10,10,10
+signals,Trane named,70,14,16,13
+signals,Lennox named,54,11,11,10
+signals,Goodman named,6,1,2,1
+signals,Rheem named,34,7,5,8
+signals,Daikin named,31,6,5,6
+signals,Mitsubishi Electric named,23,5,7,4
+signals,NATE certified stated,69,14,16,13
+signals,EPA certified stated,18,4,3,4
+signals,Licensed and insured stated,111,22,21,22
+signals,A licence or registration number printed,164,32,34,32
+signals,Background checked or drug tested technicians stated,31,6,9,5
+signals,Years in business stated,314,62,64,61
+signals,Family owned or locally owned stated,239,47,47,47
+signals,Veteran owned stated,17,3,3,4
+signals,A satisfaction guarantee stated,98,19,22,18
+signals,Spanish offered,2,0,0,1
+signals,A maintenance plan or membership club stated,277,55,65,51
+signals,A maintenance plan or membership page linked,157,31,42,27
+signals,Emergency or 24/7 service stated,379,75,77,74
+signals,Same day service stated,75,15,17,14
+signals,A free estimate or quote offered,201,40,33,42
+signals,Financing offered,366,72,84,68
+signals,Any consumer lender detected,45,9,7,9
+signals,A financing page linked,269,53,68,47
+signals,Coupons or specials stated,287,57,67,53
+signals,A specials or coupons page linked,209,41,54,36
+signals,Rebates or tax credits named,103,20,24,19
+signals,Upfront or flat rate pricing stated,128,25,26,25
+signals,A service area page linked,239,47,57,43
+signals,A services page linked,251,50,45,52
+signals,A commercial page linked,150,30,32,29
+signals,A brands or equipment page linked,87,17,20,16
+signals,An about or team page linked,409,81,87,78
+signals,A testimonials or reviews page linked,257,51,59,47
+signals,"A schedule, quote or contact page linked",449,89,89,89
+signals,Any review widget or directory badge on the homepage,196,39,42,37
+signals,A directory profile or marketplace badge linked,126,25,26,25
+signals,An Angi or HomeAdvisor badge,38,8,7,8
+signals,A BBB seal,102,20,20,20
+signals,A review count shown on the homepage,76,15,22,12
+signals,A numeric star rating shown on the homepage,39,8,11,6
+signals,A video embedded on the homepage,115,23,28,20
+signals,A price of any kind shown or a pricing page linked,97,19,23,18
+signals,Any JSON-LD structured data,456,90,91,90
+signals,Business or local business schema,303,60,66,58
+signals,HVAC or contractor schema specifically,210,42,45,40
+signals,HVACBusiness schema exactly,200,40,42,39
+signals,LocalBusiness schema,129,25,30,23
+signals,Person schema for an owner or technician,95,19,22,17
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",153,30,25,32
+signals,FAQPage schema,46,9,5,11
+signals,Review or AggregateRating schema,85,17,23,14
+signals,An FAQ on the homepage,188,37,39,36
+signals,A blog or articles section linked,291,58,72,51
+signals,A click to call phone link,474,94,99,92
+signals,AC repair stated,386,76,83,73
+signals,AC installation or replacement stated,365,72,75,71
+signals,Furnace repair or service stated,233,46,47,46
+signals,Heat pump work stated,329,65,74,61
+signals,Ductless or mini split stated,318,63,71,59
+signals,Indoor air quality stated,362,72,78,69
+signals,Duct cleaning stated,123,24,30,22
+signals,Commercial HVAC stated,248,49,45,51
+signals,Plumbing offered,134,26,36,22
+signals,Electrical offered,63,12,20,9
+signals,Water heater work stated,185,37,47,32
+signals,Seasonal tune up or maintenance stated,302,60,60,59
+signals,Meta pixel installed,79,16,16,15
+signals,Google Tag Manager installed,309,61,77,54
+signals,Google Analytics 4 installed,173,34,34,34
+signals,Google Ads conversion tag installed,62,12,13,12
+signals,Call tracking installed,44,9,13,7
+signals,Microsoft Clarity installed,25,5,7,4
+signals,Bing UET installed,19,4,4,4
+signals,Https,505,100,100,100
+signals,Mobile viewport tag,499,99,100,98
+signals,Copyright year 2026 in the footer,283,56,60,54
+signals,Copyright year 2023 or older,30,6,6,6
+signals,Says 'near me' somewhere on the homepage,24,5,5,5

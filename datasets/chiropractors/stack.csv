@@ -1,0 +1,203 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,224,49,56,46
+platform,Custom or unknown,109,24,20,25
+platform,Wix,50,11,10,11
+platform,Squarespace,33,7,7,7
+platform,Duda,22,5,3,5
+platform,GoDaddy Website Builder,14,3,3,3
+platform,Webflow,5,1,2,1
+builders,Gutenberg blocks,212,46,53,44
+builders,Elementor,63,14,18,12
+builders,Beaver Builder,50,11,13,10
+builders,Divi,28,6,8,6
+builders,WPBakery,21,5,6,4
+vendors,HighLevel agency site,33,7,11,6
+vendors,ChiroHosting or ChiroPlanet,6,1,0,2
+vendors,Roya,6,1,2,1
+crm,Jane,48,10,15,9
+crm,ChiroTouch,21,5,5,5
+crm,SKED,8,2,3,1
+crm,ChiroHD,5,1,2,1
+crm,Doctible,5,1,0,1
+crm,Zocdoc,5,1,0,1
+crm,Tebra or PatientPop,4,1,0,1
+crm,Mindbody,2,0,1,0
+crm,Cash Practice,2,0,1,0
+crm,Atlas Chiropractic System,2,0,0,1
+crm,Demandforce,2,0,1,0
+chat,Facebook Messenger chat,2,0,0,1
+chat,Tawk.to,2,0,2,0
+leadCapture,Gravity Forms,34,7,8,7
+leadCapture,Contact Form 7,33,7,9,7
+leadCapture,WPForms,10,2,4,2
+leadCapture,JotForm,5,1,3,1
+pixels,Google Tag Manager,167,36,47,33
+pixels,Google Analytics 4,132,29,31,28
+pixels,Meta pixel,43,9,15,8
+pixels,Google Ads tag,39,8,10,8
+pixels,Microsoft Clarity,12,3,4,2
+pixels,CallRail,8,2,2,2
+certifications,Years in practice stated,116,25,26,25
+certifications,DC after a name,104,23,24,22
+certifications,Walk ins or same day appointments,57,12,15,12
+certifications,Chiropractic school named,55,12,7,14
+certifications,Family owned or locally owned stated,18,4,3,4
+certifications,Board certified stated,15,3,3,3
+certifications,American Chiropractic Association named,15,3,1,4
+certifications,Spanish offered,15,3,3,3
+certifications,State chiropractic association named,12,3,1,3
+certifications,CCSP or CCEP sports certification,8,2,2,2
+certifications,CACCP or ICPA pediatric certification,6,1,2,1
+certifications,Diplomate stated,6,1,1,1
+techniques,Webster technique,28,6,8,6
+techniques,Activator Method,25,5,10,4
+techniques,Graston or instrument assisted,24,5,6,5
+techniques,Active Release Technique,22,5,8,4
+techniques,NUCCA or upper cervical,20,4,9,3
+techniques,Flexion Distraction,20,4,2,5
+techniques,Gonstead technique,19,4,6,4
+techniques,Thompson Drop technique,13,3,5,2
+techniques,Diversified technique,12,3,3,3
+techniques,Cox technique,9,2,2,2
+techniques,Pierce or Chiropractic Biophysics,8,2,2,2
+techniques,Applied Kinesiology,6,1,2,1
+techniques,Torque Release Technique,5,1,3,1
+financing,CareCredit,14,3,4,3
+financing,ChiroHealthUSA,4,1,1,1
+financing,Cherry,3,1,2,0
+financing,Cash Practice wellness score,2,0,1,0
+reviewWidgets,Trustindex,31,7,8,6
+reviewWidgets,Elfsight,17,4,7,3
+reviewWidgets,Healthgrades profile,9,2,1,2
+reviewWidgets,BBB seal,6,1,4,1
+reviewWidgets,Google reviews badge,3,1,1,1
+social,Facebook,377,82,88,80
+social,Google Maps,283,62,65,61
+social,Instagram,218,47,66,42
+social,YouTube,115,25,34,22
+social,Yelp,67,15,14,15
+social,LinkedIn,43,9,9,10
+social,TikTok,21,5,8,4
+services,Chiropractic adjustment stated,317,69,79,66
+services,Back pain,317,69,74,67
+services,Headaches or migraines,298,65,73,62
+services,Neck pain,277,60,61,60
+services,Sciatica,238,52,59,50
+services,Auto accident or whiplash,237,52,51,52
+services,"Care plan, package or membership stated",220,48,59,45
+services,Prenatal or pregnancy care,208,45,54,43
+services,"Knee, shoulder or joint pain",202,44,57,40
+services,Sports injury care,177,38,43,37
+services,Physical therapy or rehab,166,36,42,34
+services,Nutrition or supplements,163,35,38,35
+services,Posture correction,159,35,44,32
+services,Disc injury,158,34,44,32
+services,Carpal tunnel or nerve pain,155,34,42,31
+services,Massage therapy,149,32,34,32
+services,Digital X-ray on site,134,29,33,28
+services,Pediatric or children's care,128,28,40,24
+services,Spinal decompression,121,26,31,25
+services,Scoliosis,106,23,28,22
+services,Vertigo or TMJ,102,22,29,20
+services,Work injury or workers comp,101,22,22,22
+services,New patient special or offer,99,22,25,21
+services,Dry needling or acupuncture,83,18,23,17
+services,Cold laser or low level laser,76,17,17,16
+services,Insurance accepted stated,63,14,17,13
+services,Shockwave therapy,60,13,19,11
+services,Medicare accepted stated,47,10,10,10
+services,Custom orthotics,39,8,9,8
+services,Free consultation or exam offered,34,7,7,8
+services,Cupping,28,6,10,5
+services,Electrical stimulation or ultrasound,27,6,4,6
+services,New patients welcome stated,26,6,6,6
+services,In-network stated,21,5,7,4
+services,Cash or self pay rates stated,16,3,3,4
+services,Traction or spinal traction,5,1,2,1
+weightBuckets,100 to 300 KB,208,45,47,45
+weightBuckets,under 100 KB,129,28,25,29
+weightBuckets,300 to 700 KB,79,17,14,18
+weightBuckets,700 KB to 1.5 MB,43,9,13,8
+weightBuckets,over 1.5 MB,1,0,1,0
+signals,"Any practice, booking or patient engagement software detected",108,23,27,23
+signals,An online booking route on the homepage,277,60,68,58
+signals,"A live chat, text or answering widget",4,1,2,1
+signals,A form plugin detected,74,16,20,15
+signals,A chiropractic website vendor detected,46,10,13,9
+signals,A named adjusting technique stated,135,29,38,27
+signals,Gonstead technique stated,19,4,6,4
+signals,Activator Method stated,25,5,10,4
+signals,Diversified technique stated,12,3,3,3
+signals,Webster technique stated,28,6,8,6
+signals,Flexion Distraction stated,20,4,2,5
+signals,Graston or instrument assisted stated,24,5,6,5
+signals,Insurance accepted stated,63,14,17,13
+signals,In-network stated,21,5,7,4
+signals,Medicare named,47,10,10,10
+signals,Cash or self pay rates stated,16,3,3,4
+signals,"An insurance, billing or financial policy page linked",57,12,14,12
+signals,A new patient special or offer stated,99,22,25,21
+signals,A price printed next to that offer,47,10,12,10
+signals,New patients welcome stated,26,6,6,6
+signals,A free consultation or exam offered,34,7,7,8
+signals,"A care plan, package or membership stated",220,48,59,45
+signals,Any patient financing or in-house plan detected,22,5,7,4
+signals,ChiroHealthUSA detected,4,1,1,1
+signals,CareCredit detected,14,3,4,3
+signals,A new patient page linked,185,40,44,39
+signals,A services or treatments page linked,264,57,52,59
+signals,A conditions treated page linked,84,18,24,17
+signals,A techniques page linked,15,3,3,3
+signals,A doctor or about page linked,316,69,75,67
+signals,A testimonials or patient reviews page linked,206,45,50,43
+signals,DC printed after a name,104,23,24,22
+signals,A chiropractic school named,55,12,7,14
+signals,Board certified stated,15,3,3,3
+signals,A diplomate or letter certification stated,20,4,5,4
+signals,Years in practice stated,116,25,26,25
+signals,A licence or registration number printed,6,1,2,1
+signals,Walk ins or same day appointments stated,57,12,15,12
+signals,Spanish offered,15,3,3,3
+signals,Family owned or locally owned stated,18,4,3,4
+signals,Any review widget or directory badge on the homepage,61,13,19,12
+signals,A directory profile linked,14,3,5,3
+signals,A review count shown on the homepage,44,10,17,7
+signals,A numeric star rating shown on the homepage,14,3,3,3
+signals,A video embedded on the homepage,123,27,29,26
+signals,A price of any kind shown or a pricing page linked,50,11,13,10
+signals,Any JSON-LD structured data,388,84,84,85
+signals,Practice or local business schema,268,58,53,60
+signals,Chiropractor or medical business schema specifically,99,22,19,22
+signals,Chiropractor schema exactly,8,2,3,1
+signals,LocalBusiness schema,188,41,35,43
+signals,Person schema for a doctor,55,12,15,11
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",120,26,30,25
+signals,FAQPage schema,42,9,10,9
+signals,Review or AggregateRating schema,29,6,5,7
+signals,An FAQ on the homepage,185,40,46,39
+signals,A blog or articles section linked,226,49,67,44
+signals,A click to call phone link,368,80,83,79
+signals,Spinal decompression offered,121,26,31,25
+signals,Massage therapy offered,149,32,34,32
+signals,Physical therapy or rehab offered,166,36,42,34
+signals,Dry needling or acupuncture offered,83,18,23,17
+signals,Cold laser therapy offered,76,17,17,16
+signals,Shockwave therapy offered,60,13,19,11
+signals,Prenatal or pregnancy care offered,208,45,54,43
+signals,Pediatric care offered,128,28,40,24
+signals,Sports injury care offered,177,38,43,37
+signals,Auto accident or whiplash work stated,237,52,51,52
+signals,Work injury or workers comp work stated,101,22,22,22
+signals,X-ray on site stated,134,29,33,28
+signals,Meta pixel installed,43,9,15,8
+signals,Google Tag Manager installed,167,36,47,33
+signals,Google Analytics 4 installed,132,29,31,28
+signals,Google Ads conversion tag installed,39,8,10,8
+signals,Call tracking installed,8,2,2,2
+signals,Microsoft Clarity installed,12,3,4,2
+signals,Bing UET installed,3,1,1,1
+signals,Https,455,99,100,99
+signals,Mobile viewport tag,447,97,99,97
+signals,Copyright year 2026 in the footer,200,43,46,43
+signals,Copyright year 2023 or older,36,8,6,8
+signals,Says 'near me' somewhere on the homepage,20,4,1,5

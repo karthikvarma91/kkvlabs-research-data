@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "KKV Labs AI Local Visibility Index Datasets"
+type: dataset
+authors:
+  - family-names: Varma
+    given-names: Karthik
+    affiliation: "KKV Labs LLC"
+date-released: 2026-09-15
+url: "https://www.kkvlabs.com/research"
+license: CC-BY-4.0
+version: "2026.09"

@@ -1,0 +1,156 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,218,60,64,58
+platform,Custom or unknown,86,23,17,26
+platform,Duda,17,5,1,6
+platform,Webflow,16,4,10,3
+platform,Squarespace,11,3,4,3
+platform,Wix,9,2,1,3
+builders,Gutenberg blocks,192,52,56,51
+builders,Elementor,66,18,17,18
+builders,Divi,35,10,12,9
+builders,WPBakery,18,5,5,5
+builders,Beaver Builder,5,1,0,2
+crm,Modento or Dental Menu,23,6,8,6
+crm,LocalMed,15,4,6,4
+crm,NexHealth,13,4,5,3
+crm,HighLevel,12,3,4,3
+crm,Weave,9,2,4,2
+crm,Zocdoc,7,2,2,2
+crm,Denticon,6,2,2,1
+crm,Doctible,5,1,1,1
+crm,Dentrix or Dentrix Ascend,5,1,2,1
+crm,Simplifeye,5,1,1,1
+crm,Demandforce,3,1,1,1
+crm,Legwork,3,1,0,1
+crm,Solutionreach,2,1,1,0
+crm,Flex Dental,2,1,1,0
+crm,RevenueWell,2,1,0,1
+leadCapture,Gravity Forms,41,11,15,10
+leadCapture,Contact Form 7,39,11,11,11
+leadCapture,Birdeye,16,4,6,4
+leadCapture,WPForms,11,3,6,2
+leadCapture,Podium,7,2,1,2
+leadCapture,Tawk.to,7,2,2,2
+leadCapture,Healthgrades,7,2,4,1
+leadCapture,Formidable Forms,6,2,4,1
+leadCapture,Intercom,5,1,1,1
+leadCapture,JotForm,4,1,0,1
+pixels,Google Tag Manager,196,54,55,53
+pixels,Google Analytics 4,118,32,39,30
+pixels,Google Ads tag,41,11,13,11
+pixels,Meta pixel,39,11,12,10
+pixels,CallRail,34,9,11,9
+pixels,Microsoft Clarity,18,5,10,4
+pixels,CallTrackingMetrics,15,4,4,4
+certifications,DDS after a name,120,33,29,34
+certifications,DMD after a name,70,19,13,21
+certifications,Years in practice stated,67,18,19,18
+certifications,ADA member,23,6,10,5
+certifications,Academy of General Dentistry,16,4,6,4
+certifications,FAGD or MAGD fellow,13,4,2,4
+certifications,Board certified stated,10,3,2,3
+certifications,Fellow or Master of the AGD,9,2,4,2
+certifications,American Academy of Cosmetic Dentistry,5,1,2,1
+financing,CareCredit,94,26,26,26
+financing,Sunbit,20,5,4,6
+financing,Cherry,20,5,8,5
+financing,Kleer or membership platform,9,2,4,2
+financing,LendingClub,3,1,1,1
+financing,Alphaeon,3,1,1,1
+reviewWidgets,Trustindex,48,13,21,11
+reviewWidgets,Elfsight,24,7,6,7
+reviewWidgets,BBB seal,5,1,4,1
+reviewWidgets,EmbedSocial,3,1,1,1
+social,Facebook,315,86,89,85
+social,Google Maps,272,74,77,73
+social,Instagram,177,48,54,47
+social,Yelp,91,25,27,24
+social,YouTube,72,20,30,17
+social,LinkedIn,29,8,11,7
+social,TikTok,6,2,1,2
+services,Cosmetic dentistry,307,84,89,82
+services,Dental implants,297,81,89,79
+services,Teeth whitening,256,70,79,67
+services,General or family dentistry,255,70,75,68
+services,Veneers,238,65,79,61
+services,Dentures or partials,235,64,70,62
+services,Oral surgery or extractions,218,60,65,58
+services,Root canal or endodontics,211,58,60,57
+services,Emergency dentistry,207,57,70,52
+services,Invisalign or clear aligners,207,57,76,51
+services,Periodontal or gum treatment,191,52,65,48
+services,Teeth cleaning or hygiene,174,48,45,48
+services,Crowns or bridges,171,47,54,45
+services,Financing offered,151,41,46,40
+services,Sedation dentistry,144,39,49,37
+services,Orthodontics or braces,135,37,46,34
+services,Pediatric or children's dentistry,112,31,30,31
+services,TMJ or TMD treatment,99,27,32,26
+services,Sleep apnea or snoring,88,24,24,24
+services,Same day crowns or CEREC,82,22,23,22
+services,Membership or savings plan,75,20,23,20
+services,New patients welcome stated,73,20,25,18
+services,Insurance accepted stated,51,14,17,13
+services,Emergency or same day appointment,48,13,11,14
+services,New patient special or offer,37,10,6,11
+services,Free consultation offered,30,8,6,9
+services,In-network stated,25,7,6,7
+services,Spanish offered,13,4,4,4
+weightBuckets,100 to 300 KB,184,50,48,51
+weightBuckets,under 100 KB,103,28,25,29
+weightBuckets,300 to 700 KB,63,17,21,16
+weightBuckets,700 KB to 1.5 MB,12,3,4,3
+weightBuckets,over 1.5 MB,4,1,2,1
+signals,Any practice software or patient engagement tool detected,97,27,35,24
+signals,An online booking or appointment request route,256,70,75,68
+signals,A named online booking vendor,89,24,31,22
+signals,A price shown on the homepage or a pricing page linked,55,15,15,15
+signals,Insurance accepted stated in words,51,14,17,13
+signals,In-network stated,25,7,6,7
+signals,An insurance or financial policy page linked,152,42,46,40
+signals,A membership or savings plan mentioned,75,20,23,20
+signals,A membership plan page linked,63,17,23,16
+signals,A new patient special or offer,37,10,6,11
+signals,New patients welcome stated,73,20,25,18
+signals,A new patient page linked,161,44,44,44
+signals,Financing shown by name or word,202,55,56,55
+signals,A named finance partner shown,125,34,37,33
+signals,A financing page linked,88,24,29,23
+signals,A provider credential shown on the homepage,190,52,44,54
+signals,DDS or DMD printed after a name,166,45,37,48
+signals,Board certified stated,10,3,2,3
+signals,AACD or AGD named,27,7,7,7
+signals,An Invisalign provider tier claimed,0,0,0,0
+signals,A review count shown on the homepage,51,14,15,13
+signals,A numeric star rating shown on the homepage,18,5,8,4
+signals,Any JSON-LD structured data,301,82,86,81
+signals,Dentist or medical business schema,218,60,65,58
+signals,Dentist schema specifically,182,50,54,49
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",83,23,20,23
+signals,FAQPage schema,25,7,11,6
+signals,Service or Offer schema,48,13,18,12
+signals,MedicalOrganization schema,16,4,7,4
+signals,An FAQ on the homepage,138,38,42,37
+signals,A blog or news section linked,175,48,62,44
+signals,More than one location stated,27,7,6,8
+signals,A locations page linked,16,4,5,4
+signals,A click to call phone link,322,88,92,87
+signals,"Free consultation, exam or second opinion offered",30,8,6,9
+signals,Emergency dentistry offered,207,57,70,52
+signals,Sedation dentistry offered,144,39,49,37
+signals,Invisalign or clear aligners offered,207,57,76,51
+signals,Dental implants offered,297,81,89,79
+signals,Spanish offered,13,4,4,4
+signals,Meta pixel installed,39,11,12,10
+signals,Google Tag Manager installed,196,54,55,53
+signals,Google Analytics 4 installed,118,32,39,30
+signals,Google Ads conversion tag installed,41,11,13,11
+signals,Call tracking installed,49,13,14,13
+signals,Microsoft Clarity installed,18,5,10,4
+signals,Bing UET installed,2,1,1,0
+signals,Hotjar installed,2,1,1,0
+signals,Https,365,100,99,100
+signals,Mobile viewport tag,352,96,98,96
+signals,Copyright year 2026 in the footer,174,48,52,46
+signals,Copyright year 2023 or older,29,8,7,8
+signals,Says 'near me' somewhere on the homepage,28,8,8,7

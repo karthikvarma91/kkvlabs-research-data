@@ -1,0 +1,139 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,300,58,69,53
+platform,Custom or unknown,92,18,12,20
+platform,Duda,57,11,8,12
+platform,Wix,30,6,3,7
+platform,Squarespace,14,3,3,2
+platform,Webflow,12,2,3,2
+platform,GoDaddy Website Builder,6,1,1,1
+builders,Gutenberg blocks,287,55,66,51
+builders,Elementor,137,26,40,21
+builders,Divi,42,8,7,9
+builders,WPBakery,21,4,5,3
+builders,Beaver Builder,17,3,4,3
+crm,Roofle,37,7,10,6
+crm,CompanyCam,10,2,3,1
+crm,Roofr,9,2,2,2
+crm,ServiceTitan,5,1,3,0
+crm,AccuLynx,4,1,2,0
+crm,Housecall Pro,3,1,1,0
+crm,Xactimate,2,0,1,0
+crm,Jobber,2,0,1,0
+crm,Hover,2,0,0,1
+leadCapture,Gravity Forms,83,16,18,15
+leadCapture,Contact Form 7,76,15,19,13
+leadCapture,Angi or HomeAdvisor,43,8,10,8
+leadCapture,WPForms,39,8,5,8
+leadCapture,HubSpot forms,10,2,1,2
+leadCapture,Podium,7,1,1,2
+leadCapture,Thumbtack,6,1,1,1
+leadCapture,JotForm,4,1,1,1
+pixels,Google Tag Manager,268,52,58,49
+pixels,Google Analytics 4,203,39,41,38
+pixels,Meta pixel,82,16,14,16
+pixels,Google Ads tag,75,14,14,14
+pixels,CallRail,40,8,8,8
+pixels,Microsoft Clarity,23,4,7,3
+pixels,Bing UET,19,4,3,4
+pixels,Hotjar,11,2,3,2
+pixels,CallTrackingMetrics,5,1,1,1
+certifications,GAF named,132,25,29,24
+certifications,Owens Corning named,91,18,18,17
+certifications,CertainTeed named,82,16,10,18
+certifications,GAF Master Elite,50,10,10,9
+certifications,Owens Corning Preferred,44,8,7,9
+certifications,GAF Certified or President's Club,43,8,10,8
+certifications,Malarkey named,25,5,4,5
+certifications,CertainTeed ShingleMaster or credentialed,24,5,5,4
+certifications,Owens Corning Platinum Preferred,21,4,3,5
+certifications,IKO named,18,3,5,3
+certifications,TAMKO named,16,3,3,3
+certifications,CertainTeed SELECT ShingleMaster,14,3,3,2
+certifications,Malarkey Emerald or certified,9,2,3,1
+certifications,Duro-Last,6,1,2,1
+financing,Hearth,12,2,2,2
+financing,Service Finance,10,2,2,2
+financing,Enhancify,6,1,3,1
+financing,GreenSky,5,1,1,1
+financing,Acorn Finance,4,1,1,1
+financing,Synchrony,4,1,0,1
+financing,Wisetack,4,1,2,0
+financing,PayPal Credit,2,0,0,1
+reviewWidgets,BBB seal,131,25,29,24
+reviewWidgets,Trustindex,73,14,19,12
+reviewWidgets,Elfsight,30,6,6,6
+reviewWidgets,GuildQuality,17,3,3,3
+reviewWidgets,Trustpilot,3,1,1,0
+reviewWidgets,Google reviews badge,3,1,1,0
+social,Facebook,407,78,88,75
+social,Google Maps,326,63,65,62
+social,Instagram,239,46,56,42
+social,YouTube,149,29,35,26
+social,LinkedIn,126,24,23,25
+social,Yelp,83,16,20,14
+social,TikTok,29,6,6,5
+social,Nextdoor,15,3,4,2
+services,Roof repair,416,80,84,78
+services,Roof replacement,396,76,82,74
+services,Free estimate or inspection,396,76,77,76
+services,Commercial roofing,361,69,71,69
+services,Storm or hail damage,338,65,67,64
+services,Gutters,329,63,66,62
+services,Residential roofing,320,62,64,61
+services,Warranty language,316,61,63,60
+services,Metal roofing,304,58,64,56
+services,Roof inspection,286,55,59,53
+services,Financing offered,268,52,63,47
+services,Flat or TPO roofing,256,49,52,48
+services,Years in business stated,245,47,46,48
+services,Siding,226,43,44,43
+services,Insurance claim help,220,42,44,42
+services,Emergency or 24 hour service,219,42,46,40
+services,Licensed and insured stated,185,36,29,38
+services,Family owned,148,28,29,28
+services,Skylights,130,25,31,23
+services,Tile roofing,99,19,19,19
+services,Workmanship warranty,85,16,16,16
+services,Solar,78,15,18,14
+services,Windows,47,9,9,9
+services,Lifetime warranty,36,7,6,7
+services,Veteran owned,21,4,6,3
+weightBuckets,100 to 300 KB,246,47,50,46
+weightBuckets,300 to 700 KB,125,24,29,22
+weightBuckets,under 100 KB,103,20,15,22
+weightBuckets,700 KB to 1.5 MB,34,7,5,7
+weightBuckets,over 1.5 MB,12,2,1,3
+signals,Any roofing CRM or quote tool detected,68,13,22,10
+signals,Any manufacturer certification tier claimed,131,25,26,25
+signals,A manufacturer brand named at all,227,44,45,43
+signals,Financing shown by name or word,273,52,64,48
+signals,A named finance partner shown,47,9,12,8
+signals,"Storm, hail or insurance claim content",358,69,70,68
+signals,A storm or insurance claim page linked,241,46,49,45
+signals,A service area or locations page linked,217,42,48,39
+signals,A licence number printed on the homepage,74,14,16,13
+signals,Licensed and insured stated in words,185,36,29,38
+signals,Warranty language on the homepage,316,61,63,60
+signals,A price shown on the homepage or a pricing page linked,80,15,14,16
+signals,A review count shown on the homepage,116,22,26,21
+signals,A numeric star rating shown on the homepage,52,10,10,10
+signals,Any JSON-LD structured data,444,85,93,82
+signals,LocalBusiness or contractor business schema,310,60,60,60
+signals,RoofingContractor schema specifically,199,38,43,36
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",134,26,33,23
+signals,FAQPage schema,80,15,16,15
+signals,Service or Offer schema,93,18,18,18
+signals,An FAQ on the homepage,250,48,49,48
+signals,A blog or news section linked,267,51,56,50
+signals,A click to call phone link,463,89,93,88
+signals,Free estimate or inspection offered,396,76,77,76
+signals,Meta pixel installed,82,16,14,16
+signals,Google Tag Manager installed,268,52,58,49
+signals,Google Ads conversion tag installed,75,14,14,14
+signals,Call tracking installed,45,9,10,8
+signals,Angi or HomeAdvisor badge or link,43,8,10,8
+signals,Https,519,100,100,100
+signals,Mobile viewport tag,510,98,99,98
+signals,Copyright year 2026 in the footer,216,42,46,40
+signals,Copyright year 2023 or older,48,9,5,11
+signals,Says 'near me' somewhere on the homepage,32,6,7,6

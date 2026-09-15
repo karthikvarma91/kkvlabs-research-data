@@ -1,0 +1,173 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,534,78,82,76
+platform,Custom or unknown,75,11,11,11
+platform,Duda,37,5,2,7
+platform,Wix,13,2,1,2
+platform,Webflow,11,2,1,2
+platform,Joomla,6,1,1,1
+platform,Squarespace,6,1,0,1
+builders,Gutenberg blocks,505,74,79,72
+builders,Elementor,98,14,14,14
+builders,WPBakery,32,5,4,5
+builders,Divi,28,4,2,5
+builders,Beaver Builder,23,3,4,3
+builders,Bricks,5,1,2,0
+vendors,Consultwebs,17,2,2,3
+vendors,Justia website,14,2,2,2
+vendors,iLawyerMarketing,9,1,1,2
+vendors,Martindale-Avvo,5,1,1,1
+vendors,Scorpion,4,1,0,1
+vendors,OVC Lawyer Marketing,4,1,1,1
+vendors,Nifty Marketing or Juris Digital,2,0,0,0
+vendors,Hennessey Digital,2,0,0,0
+crm,Intaker,101,15,23,12
+crm,ApexChat or Blazeo,34,5,6,4
+crm,Birdeye,18,3,5,2
+crm,Clio Grow or Clio,8,1,0,2
+crm,Smith.ai,7,1,2,1
+crm,Podium,7,1,1,1
+crm,Tawk.to,6,1,1,1
+crm,Lawmatics,6,1,1,1
+crm,LiveChat,4,1,2,0
+crm,Filevine or Lead Docket,2,0,0,0
+crm,Calendly,2,0,1,0
+leadCapture,Gravity Forms,268,39,44,37
+leadCapture,Contact Form 7,137,20,21,19
+leadCapture,WPForms,57,8,9,8
+leadCapture,Formidable Forms,19,3,5,2
+leadCapture,Ninja Forms,13,2,2,2
+leadCapture,JotForm,7,1,1,1
+leadCapture,HubSpot forms,4,1,0,1
+pixels,Google Tag Manager,459,67,82,61
+pixels,Google Analytics 4,282,41,36,43
+pixels,CallRail,209,31,37,28
+pixels,Meta pixel,126,18,26,15
+pixels,Google Ads tag,97,14,18,13
+pixels,Microsoft Clarity,49,7,5,8
+pixels,Hotjar,23,3,5,3
+pixels,Bing UET,19,3,5,2
+pixels,CallTrackingMetrics,11,2,1,2
+pixels,TikTok pixel,11,2,3,1
+certifications,Free consultation or case review,563,82,93,78
+certifications,Years in practice stated,341,50,55,48
+certifications,No fee unless we win or contingency,294,43,53,39
+certifications,Trial experience claimed,267,39,43,37
+certifications,Available 24/7 stated,245,36,49,31
+certifications,Spanish or bilingual stated,139,20,23,19
+certifications,Bar admission or licence stated,54,8,5,9
+certifications,Board certified stated,42,6,7,6
+certifications,Home or hospital visits offered,37,5,6,5
+certifications,Family owned or local firm stated,26,4,4,4
+certifications,Veteran owned,4,1,1,1
+reviewWidgets,Super Lawyers,252,37,42,35
+reviewWidgets,Martindale-Hubbell or AV rated,147,21,25,20
+reviewWidgets,National Trial Lawyers Top 100,126,18,25,16
+reviewWidgets,Million Dollar Advocates Forum,103,15,22,12
+reviewWidgets,Avvo,99,14,16,14
+reviewWidgets,Trustindex,89,13,16,12
+reviewWidgets,Best Lawyers,85,12,18,10
+reviewWidgets,American Association for Justice,79,12,13,11
+reviewWidgets,BBB seal,66,10,12,9
+reviewWidgets,Multi-Million Dollar Advocates Forum,57,8,15,6
+reviewWidgets,Lead Counsel or Expertise badge,53,8,8,8
+reviewWidgets,Justia profile,47,7,7,7
+reviewWidgets,FindLaw profile,47,7,5,8
+reviewWidgets,Elfsight,30,4,4,4
+reviewWidgets,Google reviews badge,8,1,2,1
+social,Facebook,597,87,91,86
+social,Google Maps,496,72,74,72
+social,LinkedIn,432,63,73,59
+social,Instagram,323,47,57,44
+social,YouTube,319,47,61,41
+social,TikTok,86,13,19,10
+social,Yelp,72,11,12,10
+services,Car or auto accident,601,88,97,84
+services,Wrongful death,546,80,93,75
+services,Truck or 18 wheeler accident,537,78,93,73
+services,Motorcycle accident,506,74,90,68
+services,Slip and fall or premises liability,454,66,79,62
+services,Dog bite,344,50,68,44
+services,Pedestrian accident,320,47,61,41
+services,Workers compensation,315,46,51,44
+services,Medical malpractice,315,46,50,45
+services,Bicycle accident,286,42,55,37
+services,Product liability,283,41,51,38
+services,Catastrophic injury,247,36,40,35
+services,Brain injury,228,33,42,30
+services,Nursing home abuse,197,29,36,26
+services,Spinal cord or paralysis,191,28,34,26
+services,Rideshare Uber or Lyft,184,27,36,23
+services,Construction accident,182,27,29,26
+services,Drunk driving victim,174,25,33,23
+services,Insurance bad faith or claim dispute,153,22,27,20
+services,Boat or ATV accident,134,20,24,18
+services,Burn injury,127,19,22,17
+services,Social Security disability,106,15,15,16
+services,Mass tort or class action,100,15,19,13
+services,Aviation or railroad accident,36,5,6,5
+services,Maritime or Jones Act,20,3,1,4
+weightBuckets,100 to 300 KB,342,50,44,52
+weightBuckets,300 to 700 KB,193,28,39,24
+weightBuckets,under 100 KB,100,15,10,16
+weightBuckets,700 KB to 1.5 MB,45,7,6,7
+weightBuckets,over 1.5 MB,5,1,1,1
+signals,"Any intake, chat or call answering tool detected",184,27,39,22
+signals,A live chat or booked call route,160,23,35,19
+signals,A form plugin detected,426,62,68,60
+signals,A legal website vendor detected,58,8,5,10
+signals,"No fee unless we win, or contingency stated",294,43,53,39
+signals,A free consultation or case review offered,563,82,93,78
+signals,A fees or contingency page linked,21,3,4,3
+signals,Available 24/7 stated,245,36,49,31
+signals,"A case results, verdicts or settlements page linked",335,49,63,44
+signals,A recovered amount printed on the homepage,253,37,48,33
+signals,A practice areas page linked,406,59,64,58
+signals,An attorney bio page linked,449,66,71,63
+signals,A testimonials or client reviews page linked,432,63,72,60
+signals,Esq or JD printed after a name,57,8,7,9
+signals,Bar admission or licence stated,54,8,5,9
+signals,Years in practice stated,341,50,55,48
+signals,Trial experience claimed,267,39,43,37
+signals,Board certified stated,42,6,7,6
+signals,Spanish or bilingual stated,139,20,23,19
+signals,Any directory profile or award badge on the homepage,461,67,76,64
+signals,An award badge shown,376,55,63,52
+signals,A directory profile linked,245,36,41,34
+signals,Avvo linked,99,14,16,14
+signals,Super Lawyers shown,252,37,42,35
+signals,Martindale-Hubbell or AV rated shown,147,21,25,20
+signals,Million Dollar Advocates Forum shown,103,15,22,12
+signals,National Trial Lawyers Top 100 shown,126,18,25,16
+signals,A review count shown on the homepage,107,16,22,13
+signals,A numeric star rating shown on the homepage,27,4,4,4
+signals,A video embedded on the homepage,227,33,45,29
+signals,Any JSON-LD structured data,641,94,96,93
+signals,Law firm or local business schema,462,67,66,68
+signals,LegalService or Attorney schema specifically,418,61,62,61
+signals,LocalBusiness schema,101,15,10,16
+signals,Person schema for an attorney,228,33,38,32
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",179,26,30,24
+signals,FAQPage schema,103,15,14,15
+signals,Review or AggregateRating schema,204,30,30,30
+signals,An FAQ on the homepage,380,55,60,54
+signals,A blog or news section linked,542,79,84,77
+signals,A click to call phone link,653,95,97,95
+signals,Car or auto accident work stated,601,88,97,84
+signals,Truck accident work stated,537,78,93,73
+signals,Medical malpractice work stated,315,46,50,45
+signals,Workers compensation work stated,315,46,51,44
+signals,Wrongful death work stated,546,80,93,75
+signals,Mass tort or class action work stated,100,15,19,13
+signals,Meta pixel installed,126,18,26,15
+signals,Google Tag Manager installed,459,67,82,61
+signals,Google Analytics 4 installed,282,41,36,43
+signals,Google Ads conversion tag installed,97,14,18,13
+signals,Call tracking installed,219,32,38,30
+signals,Microsoft Clarity installed,49,7,5,8
+signals,Bing UET installed,19,3,5,2
+signals,Hotjar installed,23,3,5,3
+signals,Https,683,100,100,100
+signals,Mobile viewport tag,683,100,100,100
+signals,Copyright year 2026 in the footer,434,63,71,61
+signals,Copyright year 2023 or older,28,4,4,4
+signals,Says 'near me' somewhere on the homepage,29,4,7,3

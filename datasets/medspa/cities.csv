@@ -1,0 +1,246 @@
+cityState,state,sitesScreened,noSchema,noViewport,staleCopyright,clinicsNamed,tier,aiCheckedOn
+"Bakersfield, CA",CA,12,1,0,0,5,GREEN,2026-09-08
+"Baton Rouge, LA",LA,12,6,3,0,3,YELLOW,2026-09-08
+"Myrtle Beach, SC",SC,12,2,0,2,5,GREEN,2026-09-08
+"Tucson, AZ",AZ,12,2,2,0,3,YELLOW,2026-09-08
+"Edmond, OK",OK,11,1,1,1,6,GREEN,2026-09-08
+"Tulsa, OK",OK,11,6,0,0,5,GREEN,2026-09-08
+"Lafayette, LA",LA,10,3,3,1,4,GREEN,2026-09-08
+"Little Rock, AR",AR,10,4,1,1,4,GREEN,2026-09-08
+"Albuquerque, NM",NM,11,1,0,0,5,GREEN,2026-09-08
+"Columbia, SC",SC,11,2,0,3,5,GREEN,2026-09-08
+"Midland, TX",TX,11,4,0,0,4,GREEN,2026-09-08
+"Norman, OK",OK,11,1,0,1,4,GREEN,2026-09-08
+"Omaha, NE",NE,11,2,0,0,5,GREEN,2026-09-08
+"Rochester, NY",NY,11,1,0,0,4,GREEN,2026-09-08
+"Coeur d'Alene, ID",ID,10,2,1,0,5,GREEN,2026-09-08
+"El Paso, TX",TX,10,3,1,1,5,GREEN,2026-09-08
+"Beaumont, TX",TX,10,2,1,1,5,GREEN,2026-09-08
+"Carmel, IN",IN,10,2,0,0,5,GREEN,2026-09-08
+"Chandler, AZ",AZ,10,1,0,0,3,YELLOW,2026-09-08
+"Colorado Springs, CO",CO,10,2,1,0,5,GREEN,2026-09-08
+"Gilbert, AZ",AZ,10,4,3,0,5,GREEN,2026-09-08
+"Lancaster, PA",PA,10,2,0,2,4,GREEN,2026-09-08
+"McAllen, TX",TX,10,1,0,1,3,YELLOW,2026-09-08
+"Savannah, GA",GA,10,3,3,0,5,GREEN,2026-09-08
+"Stuart, FL",FL,10,3,0,0,5,GREEN,2026-09-08
+"Waco, TX",TX,10,3,1,0,5,GREEN,2026-09-08
+"Augusta, GA",GA,9,3,2,0,5,GREEN,2026-09-08
+"Idaho Falls, ID",ID,9,3,1,0,4,GREEN,2026-09-08
+"Ocala, FL",FL,8,1,0,0,5,GREEN,2026-09-08
+"Abilene, TX",TX,9,0,0,0,3,YELLOW,2026-09-08
+"Alpharetta, GA",GA,9,1,0,0,5,GREEN,2026-09-08
+"Greensboro, NC",NC,9,3,1,1,5,GREEN,2026-09-08
+"Jonesboro, AR",AR,9,1,0,1,5,GREEN,2026-09-08
+"Lakeland, FL",FL,9,0,0,1,5,GREEN,2026-09-08
+"Manchester, NH",NH,9,1,0,0,6,GREEN,2026-09-08
+"Mesa, AZ",AZ,9,1,0,1,4,GREEN,2026-09-08
+"Missoula, MT",MT,9,2,1,0,5,GREEN,2026-09-08
+"Overland Park, KS",KS,9,1,0,0,4,GREEN,2026-09-08
+"Panama City, FL",FL,9,1,0,1,5,GREEN,2026-09-08
+"Portland, ME",ME,9,3,2,0,4,GREEN,2026-09-08
+"Santa Rosa, CA",CA,9,2,2,0,6,GREEN,2026-09-08
+"Temecula, CA",CA,9,1,0,1,5,GREEN,2026-09-08
+"Toledo, OH",OH,9,2,0,0,4,GREEN,2026-09-08
+"Bradenton, FL",FL,8,1,0,0,5,YELLOW,2026-09-08
+"Clearwater, FL",FL,8,4,0,0,4,GREEN,2026-09-08
+"Daytona Beach, FL",FL,8,1,0,0,6,GREEN,2026-09-08
+"Fresno, CA",CA,8,3,1,0,5,GREEN,2026-09-08
+"Longview, TX",TX,8,3,1,3,4,GREEN,2026-09-08
+"Lubbock, TX",TX,8,1,0,1,4,GREEN,2026-09-08
+"Roanoke, VA",VA,8,2,2,0,4,GREEN,2026-09-08
+"Shreveport, LA",LA,8,3,1,0,5,GREEN,2026-09-08
+"Winston-Salem, NC",NC,8,1,0,0,5,GREEN,2026-09-08
+"Springfield, MO",MO,7,2,0,0,5,GREEN,2026-09-08
+"Akron, OH",OH,8,3,1,2,4,GREEN,2026-09-08
+"Ann Arbor, MI",MI,8,0,0,1,5,GREEN,2026-09-08
+"Birmingham, AL",AL,8,2,0,1,5,GREEN,2026-09-08
+"Boca Raton, FL",FL,8,1,0,0,3,YELLOW,2026-09-08
+"Boise, ID",ID,8,2,0,0,5,GREEN,2026-09-08
+"Bozeman, MT",MT,8,0,0,0,3,YELLOW,2026-09-08
+"Castle Rock, CO",CO,8,2,0,1,4,GREEN,2026-09-08
+"Jupiter, FL",FL,8,0,0,0,3,YELLOW,2026-09-08
+"Lexington, KY",KY,8,1,1,1,5,GREEN,2026-09-08
+"Logan, UT",UT,8,3,0,2,3,YELLOW,2026-09-08
+"Melbourne, FL",FL,8,1,0,3,5,GREEN,2026-09-08
+"Naples, FL",FL,8,2,0,1,6,GREEN,2026-09-08
+"Ogden, UT",UT,8,2,2,0,6,GREEN,2026-09-08
+"Pensacola, FL",FL,8,1,0,0,5,GREEN,2026-09-08
+"Redding, CA",CA,8,1,0,0,4,GREEN,2026-09-08
+"Round Rock, TX",TX,8,0,0,0,5,GREEN,2026-09-08
+"Sarasota, FL",FL,8,1,1,1,5,GREEN,2026-09-08
+"St. George, UT",UT,8,1,1,1,5,GREEN,2026-09-08
+"Surprise, AZ",AZ,8,1,0,0,5,GREEN,2026-09-08
+"Venice, FL",FL,8,3,0,0,4,GREEN,2026-09-08
+"Winter Park, FL",FL,8,2,0,0,6,GREEN,2026-09-08
+"Henderson, NV",NV,7,1,0,0,5,GREEN,2026-09-08
+"Modesto, CA",CA,7,4,2,0,5,GREEN,2026-09-08
+"Montgomery, AL",AL,7,2,0,0,4,GREEN,2026-09-08
+"Tyler, TX",TX,7,2,0,0,5,GREEN,2026-09-08
+"Albany, NY",NY,7,1,0,0,4,GREEN,2026-09-08
+"Amarillo, TX",TX,7,2,2,0,4,GREEN,2026-09-08
+"Annapolis, MD",MD,7,0,0,0,4,GREEN,2026-09-08
+"Athens, GA",GA,7,1,1,0,5,GREEN,2026-09-08
+"Broken Arrow, OK",OK,7,2,0,1,4,GREEN,2026-09-08
+"Charlottesville, VA",VA,7,4,2,0,3,YELLOW,2026-09-08
+"Chattanooga, TN",TN,7,1,0,1,6,GREEN,2026-09-08
+"Chico, CA",CA,7,4,0,0,5,GREEN,2026-09-08
+"Flagstaff, AZ",AZ,7,1,0,0,5,GREEN,2026-09-08
+"Fort Walton Beach, FL",FL,7,0,0,0,4,GREEN,2026-09-08
+"Franklin, TN",TN,7,4,3,1,5,GREEN,2026-09-08
+"Gainesville, FL",FL,7,1,0,0,5,GREEN,2026-09-08
+"Grand Rapids, MI",MI,7,0,0,0,5,GREEN,2026-09-08
+"Killeen, TX",TX,7,1,0,0,5,GREEN,2026-09-08
+"Knoxville, TN",TN,7,1,1,0,5,GREEN,2026-09-08
+"Laredo, TX",TX,7,1,0,2,4,GREEN,2026-09-08
+"Marietta, GA",GA,7,0,0,0,4,GREEN,2026-09-08
+"Reno, NV",NV,7,1,0,1,4,GREEN,2026-09-08
+"Temple, TX",TX,7,3,1,0,6,GREEN,2026-09-08
+"Vero Beach, FL",FL,7,4,0,0,4,GREEN,2026-09-08
+"Wichita, KS",KS,7,1,1,0,5,GREEN,2026-09-08
+"Wichita Falls, TX",TX,7,3,0,1,3,YELLOW,2026-09-08
+"Charleston, SC",SC,6,3,1,1,4,GREEN,2026-09-08
+"Frederick, MD",MD,6,1,0,0,5,GREEN,2026-09-08
+"Loveland, CO",CO,6,1,0,0,3,YELLOW,2026-09-08
+"Port St. Lucie, FL",FL,6,1,0,0,4,GREEN,2026-09-08
+"San Angelo, TX",TX,6,3,0,0,5,GREEN,2026-09-08
+"Syracuse, NY",NY,6,3,1,0,5,GREEN,2026-09-08
+"Visalia, CA",CA,6,2,1,1,5,GREEN,2026-09-08
+"Bend, OR",OR,6,1,1,0,6,GREEN,2026-09-08
+"Bloomington, IN",IN,6,1,0,0,4,GREEN,2026-09-08
+"Buffalo, NY",NY,6,1,0,0,4,GREEN,2026-09-08
+"Canton, OH",OH,6,1,0,0,5,GREEN,2026-09-08
+"Cary, NC",NC,6,0,0,0,6,GREEN,2026-09-08
+"Clarksville, TN",TN,6,0,0,0,5,GREEN,2026-09-08
+"College Station, TX",TX,6,1,0,0,5,GREEN,2026-09-08
+"Columbia, MO",MO,6,0,0,1,4,GREEN,2026-09-08
+"Columbus, GA",GA,6,2,0,0,4,GREEN,2026-09-08
+"Concord, NC",NC,6,3,0,1,4,GREEN,2026-09-08
+"Conroe, TX",TX,6,0,0,0,7,GREEN,2026-09-08
+"Dayton, OH",OH,6,3,2,0,5,GREEN,2026-09-08
+"Denton, TX",TX,6,1,0,0,4,GREEN,2026-09-08
+"Eau Claire, WI",WI,6,2,0,0,4,GREEN,2026-09-08
+"Eugene, OR",OR,6,2,0,1,5,GREEN,2026-09-08
+"Fort Collins, CO",CO,6,3,0,0,4,GREEN,2026-09-08
+"Grand Junction, CO",CO,6,1,1,2,5,GREEN,2026-09-08
+"Great Falls, MT",MT,6,3,1,0,4,GREEN,2026-09-08
+"Greenville, SC",SC,6,0,0,0,5,GREEN,2026-09-08
+"Harrisburg, PA",PA,6,1,0,0,6,GREEN,2026-09-08
+"Harrisonburg, VA",VA,6,0,0,0,4,GREEN,2026-09-08
+"Jackson, MS",MS,6,2,0,1,6,GREEN,2026-09-08
+"Kalamazoo, MI",MI,6,0,0,0,5,GREEN,2026-09-08
+"Lansing, MI",MI,6,1,0,1,4,GREEN,2026-09-08
+"Longmont, CO",CO,6,1,0,0,5,GREEN,2026-09-08
+"Macon, GA",GA,6,2,1,0,5,GREEN,2026-09-08
+"Madison, WI",WI,6,0,0,0,4,GREEN,2026-09-08
+"Murfreesboro, TN",TN,6,1,0,0,4,GREEN,2026-09-08
+"Nampa, ID",ID,6,3,0,0,7,GREEN,2026-09-08
+"Providence, RI",RI,6,1,1,0,6,GREEN,2026-09-08
+"Pueblo, CO",CO,6,1,0,1,5,GREEN,2026-09-08
+"Punta Gorda, FL",FL,6,0,0,1,4,GREEN,2026-09-08
+"Rochester, MN",MN,6,0,0,0,5,GREEN,2026-09-08
+"Salem, OR",OR,6,1,0,0,5,GREEN,2026-09-08
+"Santa Fe, NM",NM,6,1,0,0,4,GREEN,2026-09-08
+"Spokane, WA",WA,6,0,0,0,5,GREEN,2026-09-08
+"Summerville, SC",SC,6,0,0,0,5,GREEN,2026-09-08
+"Warner Robins, GA",GA,6,1,0,0,5,GREEN,2026-09-08
+"Wilmington, NC",NC,6,1,1,0,4,GREEN,2026-09-08
+"York, PA",PA,6,2,0,1,5,GREEN,2026-09-08
+"Yuma, AZ",AZ,6,1,0,0,6,GREEN,2026-09-08
+"Billings, MT",MT,5,2,2,0,6,GREEN,2026-09-08
+"Johnson City, TN",TN,5,3,0,0,5,GREEN,2026-09-08
+"Lincoln, NE",NE,5,0,0,0,4,GREEN,2026-09-08
+"Scottsdale, AZ",AZ,5,1,1,0,5,GREEN,2026-09-08
+"Waukesha, WI",WI,5,3,0,0,6,GREEN,2026-09-08
+"Allentown, PA",PA,5,1,1,0,5,GREEN,2026-09-08
+"Appleton, WI",WI,5,1,1,0,5,GREEN,2026-09-08
+"Asheville, NC",NC,5,1,1,0,5,GREEN,2026-09-08
+"Binghamton, NY",NY,5,0,1,2,3,YELLOW,2026-09-08
+"Bismarck, ND",ND,5,1,0,0,4,GREEN,2026-09-08
+"Davenport, IA",IA,5,3,0,0,5,GREEN,2026-09-08
+"Destin, FL",FL,5,0,0,2,4,GREEN,2026-09-08
+"Dothan, AL",AL,5,1,0,0,3,YELLOW,2026-09-08
+"Dublin, OH",OH,5,1,0,0,4,GREEN,2026-09-08
+"Fishers, IN",IN,5,0,0,0,4,GREEN,2026-09-08
+"Fort Myers, FL",FL,5,0,0,0,5,GREEN,2026-09-08
+"Fort Wayne, IN",IN,5,2,1,0,4,GREEN,2026-09-08
+"Greeley, CO",CO,5,0,0,0,5,GREEN,2026-09-08
+"Green Bay, WI",WI,5,2,1,0,4,GREEN,2026-09-08
+"Hickory, NC",NC,5,1,0,0,5,GREEN,2026-09-08
+"Houma, LA",LA,5,0,0,0,4,GREEN,2026-09-08
+"Iowa City, IA",IA,5,0,0,1,5,GREEN,2026-09-08
+"Jefferson City, MO",MO,5,3,0,0,4,GREEN,2026-09-08
+"Lynchburg, VA",VA,5,1,0,0,4,GREEN,2026-09-08
+"Medford, OR",OR,5,2,0,0,4,GREEN,2026-09-08
+"Meridian, ID",ID,5,2,0,0,5,GREEN,2026-09-08
+"Olympia, WA",WA,5,1,1,0,4,GREEN,2026-09-08
+"Owensboro, KY",KY,5,0,0,0,5,GREEN,2026-09-08
+"Provo, UT",UT,5,2,1,1,6,GREEN,2026-09-08
+"Rock Hill, SC",SC,5,1,0,0,2,YELLOW,2026-09-08
+"San Luis Obispo, CA",CA,5,0,0,0,3,YELLOW,2026-09-08
+"Saratoga Springs, NY",NY,5,1,0,0,3,YELLOW,2026-09-08
+"Sioux Falls, SD",SD,5,1,0,0,5,GREEN,2026-09-08
+"Spring Hill, FL",FL,5,1,0,0,4,GREEN,2026-09-08
+"Tallahassee, FL",FL,5,1,0,0,5,GREEN,2026-09-08
+"Tuscaloosa, AL",AL,5,0,0,1,4,GREEN,2026-09-08
+"Twin Falls, ID",ID,5,1,0,0,3,YELLOW,2026-09-08
+"Wilmington, DE",DE,5,1,1,1,4,GREEN,2026-09-08
+"Fayetteville, AR",AR,4,0,0,1,5,GREEN,2026-09-08
+"Midland, MI",MI,4,1,0,0,4,GREEN,2026-09-08
+"Odessa, TX",TX,4,0,0,1,5,GREEN,2026-09-08
+"Ventura, CA",CA,4,0,0,0,5,GREEN,2026-09-08
+"Utica, NY",NY,3,1,1,1,4,GREEN,2026-09-08
+"Alexandria, LA",LA,4,0,0,0,4,GREEN,2026-09-08
+"Bellingham, WA",WA,4,1,0,0,4,GREEN,2026-09-08
+"Biloxi, MS",MS,4,1,0,0,7,GREEN,2026-09-08
+"Boulder, CO",CO,4,1,0,0,4,GREEN,2026-09-08
+"Casper, WY",WY,4,0,0,0,6,GREEN,2026-09-08
+"Cheyenne, WY",WY,4,1,0,0,5,GREEN,2026-09-08
+"Conway, AR",AR,4,1,0,1,5,GREEN,2026-09-08
+"Des Moines, IA",IA,4,1,1,0,4,GREEN,2026-09-08
+"Dover, DE",DE,4,2,0,0,4,GREEN,2026-09-08
+"Fargo, ND",ND,4,1,1,0,7,GREEN,2026-09-08
+"Holland, MI",MI,4,1,1,0,4,GREEN,2026-09-08
+"Joplin, MO",MO,4,1,0,0,4,GREEN,2026-09-08
+"Lafayette, IN",IN,4,3,1,0,5,GREEN,2026-09-08
+"Lawton, OK",OK,4,1,0,0,5,GREEN,2026-09-08
+"Mobile, AL",AL,4,1,1,1,4,GREEN,2026-09-08
+"Morgantown, WV",WV,4,1,1,0,5,GREEN,2026-09-08
+"Nashua, NH",NH,4,1,0,0,4,GREEN,2026-09-08
+"Poughkeepsie, NY",NY,4,1,0,0,6,GREEN,2026-09-08
+"Rogers, AR",AR,4,0,0,0,4,GREEN,2026-09-08
+"Saginaw, MI",MI,4,1,0,0,5,GREEN,2026-09-08
+"Santa Barbara, CA",CA,4,0,0,0,4,GREEN,2026-09-08
+"Topeka, KS",KS,4,2,1,0,5,GREEN,2026-09-08
+"Waterloo, IA",IA,4,0,0,1,4,GREEN,2026-09-08
+"Yakima, WA",WA,4,1,0,0,5,GREEN,2026-09-08
+"Youngstown, OH",OH,4,0,0,0,5,GREEN,2026-09-08
+"Aiken, SC",SC,3,0,0,0,5,YELLOW,2026-09-08
+"South Bend, IN",IN,3,0,0,0,6,GREEN,2026-09-08
+"St. Joseph, MO",MO,3,0,0,1,4,GREEN,2026-09-08
+"Bowling Green, KY",KY,3,2,0,0,4,GREEN,2026-09-08
+"Burlington, VT",VT,3,0,0,0,4,GREEN,2026-09-08
+"Charleston, WV",WV,3,2,1,0,3,YELLOW,2026-09-08
+"Corvallis, OR",OR,3,1,0,0,4,GREEN,2026-09-08
+"Evansville, IN",IN,3,0,0,0,4,GREEN,2026-09-08
+"Hilton Head, SC",SC,3,1,1,0,4,YELLOW,2026-09-08
+"Kennewick, WA",WA,3,2,1,0,4,GREEN,2026-09-08
+"Kingsport, TN",TN,3,0,0,0,3,YELLOW,2026-09-08
+"La Crosse, WI",WI,3,2,0,0,5,GREEN,2026-09-08
+"Oshkosh, WI",WI,3,2,1,1,5,GREEN,2026-09-08
+"Palm Desert, CA",CA,3,1,0,0,4,GREEN,2026-09-08
+"Rapid City, SD",SD,3,0,0,0,5,GREEN,2026-09-08
+"Salisbury, MD",MD,3,1,0,0,4,GREEN,2026-09-08
+"Scranton, PA",PA,3,1,0,0,6,GREEN,2026-09-08
+"Spartanburg, SC",SC,3,0,0,0,3,YELLOW,2026-09-08
+"Stillwater, OK",OK,3,0,0,0,4,GREEN,2026-09-08
+"Valdosta, GA",GA,3,2,1,0,4,GREEN,2026-09-08
+"West Hartford, CT",CT,3,2,1,0,4,GREEN,2026-09-08
+"Worcester, MA",MA,3,0,0,1,4,GREEN,2026-09-08
+"Findlay, OH",OH,2,2,0,0,4,GREEN,2026-09-08
+"Huntsville, AL",AL,2,0,0,0,4,GREEN,2026-09-08
+"Lake Charles, LA",LA,2,0,0,0,4,GREEN,2026-09-08
+"Las Cruces, NM",NM,2,0,0,0,4,GREEN,2026-09-08
+"Rio Rancho, NM",NM,1,0,0,0,4,GREEN,2026-09-08
+"Springfield, MA",MA,1,0,0,0,4,GREEN,2026-09-08
+"Traverse City, MI",MI,1,0,0,0,4,GREEN,2026-09-08

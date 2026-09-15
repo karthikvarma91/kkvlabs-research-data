@@ -1,0 +1,20 @@
+{
+  "title": "KKV Labs AI Local Visibility Index Datasets, September 2026 edition",
+  "creators": [
+    {
+      "name": "Varma, Karthik",
+      "affiliation": "KKV Labs LLC"
+    }
+  ],
+  "description": "City-by-city data on whether Google AI Mode names a local business when asked a buying question, paired with a homepage technology and content crawl, across six industries: med spas, roofers, dentists, personal injury law firms, chiropractors and HVAC contractors. September 2026 edition.",
+  "keywords": [
+    "AI visibility",
+    "generative engine optimization",
+    "local business",
+    "ChatGPT",
+    "Google AI Mode"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "version": "2026.09"
+}

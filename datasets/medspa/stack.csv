@@ -1,0 +1,114 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,632,47,51,45
+platform,Squarespace,184,14,13,14
+platform,Custom or unknown,166,12,13,12
+platform,Wix,159,12,8,13
+platform,GoDaddy Website Builder,52,4,3,4
+platform,Duda,48,4,4,4
+platform,Webflow,45,3,4,3
+platform,Shopify,28,2,2,2
+platform,Showit,22,2,1,2
+builders,Gutenberg blocks,593,44,48,42
+builders,Elementor,330,24,29,23
+builders,Divi,57,4,4,4
+builders,WPBakery,50,4,5,3
+builders,Beaver Builder,31,2,1,3
+builders,Oxygen,28,2,2,2
+booking,Aesthetic Record,152,11,10,12
+booking,HighLevel (CRM funnel),137,10,11,10
+booking,Zenoti,96,7,10,6
+booking,Boulevard,86,6,10,5
+booking,Vagaro,79,6,6,6
+booking,Jane,55,4,4,4
+booking,RepeatMD (loyalty app),53,4,4,4
+booking,Square Appointments,49,4,4,4
+booking,AestheticsPro,48,4,3,4
+booking,PatientNow,46,3,5,3
+booking,Moxie,40,3,1,4
+booking,Mangomint,31,2,4,2
+booking,Meevo,28,2,3,2
+booking,GlossGenius,20,1,1,2
+booking,Klara,18,1,1,1
+booking,Mindbody,16,1,1,1
+booking,Calendly,12,1,1,1
+booking,Tebra,10,1,1,1
+booking,Booker,8,1,1,1
+pixels,Google Tag Manager,470,35,39,33
+pixels,Meta pixel,264,20,22,19
+pixels,Google Ads tag,176,13,16,12
+pixels,Microsoft Clarity,74,5,4,6
+pixels,CallRail,47,3,3,4
+pixels,Hotjar,30,2,2,2
+messaging,Podium,109,8,10,7
+messaging,Trustindex reviews,85,6,7,6
+messaging,Elfsight widget,79,6,4,6
+messaging,Birdeye,34,3,2,3
+messaging,Tawk,14,1,1,1
+messaging,Intercom,13,1,0,1
+emailTools,Mailchimp,60,4,3,5
+emailTools,HubSpot,34,3,1,3
+emailTools,Constant Contact,33,2,2,2
+emailTools,Klaviyo,15,1,2,1
+emailTools,ConvertKit,10,1,0,1
+finance,Cherry,157,12,9,12
+finance,CareCredit,142,11,12,10
+finance,Alle rewards,118,9,11,8
+finance,RepeatMD rewards,53,4,4,4
+finance,PatientFi,43,3,4,3
+finance,Aspire rewards,31,2,2,2
+finance,Afterpay,12,1,0,1
+finance,Klarna,8,1,1,1
+treatments,Botox or neurotoxin,1133,84,88,82
+treatments,Dermal filler,1125,83,88,82
+treatments,Microneedling,977,72,79,70
+treatments,Chemical peel,708,52,56,51
+treatments,GLP-1 weight loss,702,52,55,51
+treatments,Laser hair removal,673,50,56,48
+treatments,Body contouring,637,47,57,44
+treatments,PRP or PRF,549,41,44,40
+treatments,Laser skin resurfacing,542,40,48,37
+treatments,IPL or photofacial,457,34,41,31
+treatments,Hormone therapy,455,34,36,33
+treatments,Morpheus8 or RF microneedling,439,32,36,31
+treatments,IV therapy,421,31,36,30
+treatments,HydraFacial,419,31,38,29
+treatments,Hair restoration,377,28,30,27
+treatments,PDO threads,235,17,20,16
+treatments,Tattoo removal,227,17,17,17
+treatments,Vaginal rejuvenation,206,15,19,14
+treatments,Exosomes,116,9,11,8
+credentials,NP or PA on the page,336,25,25,25
+credentials,Board certified stated,250,18,16,19
+credentials,MD or DO on the page,240,18,16,18
+credentials,RN on the page,220,16,17,16
+credentials,Medical director named,133,10,7,11
+social,Facebook,1206,89,95,87
+social,Instagram,1193,88,94,86
+social,Google Maps,707,52,58,50
+social,TikTok,271,20,25,18
+social,YouTube,259,19,23,18
+social,Yelp,107,8,7,8
+social,RealSelf,12,1,0,1
+signals,Any online booking software detected,850,63,66,62
+signals,A price shown on the homepage or a pricing page linked,539,40,40,40
+signals,LocalBusiness or MedicalBusiness schema,821,61,60,61
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",364,27,27,27
+signals,FAQPage schema,71,5,2,6
+signals,Service or Offer schema,146,11,10,11
+signals,Physician or Person schema for a provider,234,17,17,17
+signals,A blog or news section linked,592,44,48,42
+signals,An FAQ on the homepage,337,25,22,26
+signals,"Provider credential on the homepage (MD, DO, NP, PA or RN)",684,51,48,51
+signals,Medical director named,133,10,7,11
+signals,Board certified stated,250,18,16,19
+signals,Meta pixel installed,264,20,22,19
+signals,Google Tag Manager installed,470,35,39,33
+signals,Google Ads conversion tag installed,176,13,16,12
+signals,Meta pixel installed but no LocalBusiness schema,86,6,7,6
+signals,A financing or loyalty program shown,420,31,33,31
+signals,GLP-1 or weight loss offered,702,52,55,51
+signals,Instagram linked from the homepage,1193,88,94,86
+signals,TikTok linked from the homepage,271,20,25,18
+signals,Google Maps or Google profile linked,707,52,58,50
+signals,Copyright year 2026 in the footer,545,40,45,39
+signals,Says 'near me' somewhere on the homepage,38,3,3,3
