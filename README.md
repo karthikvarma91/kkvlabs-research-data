@@ -68,8 +68,8 @@ named in all [HVAC-INDEX-FINDINGS-2026-09-12.md]. Years in business, licensing, 
 certification and manufacturer dealer tiers are all flat between named and unnamed companies
 [HVAC-INDEX-FINDINGS-2026-09-12.md]. What separates named companies is what they publish:
 financing pages (68 vs 47 percent), blogs (72 vs 51), maintenance plan pages (42 vs 27)
-[HVAC-INDEX-FINDINGS-2026-09-12.md]. This industry has no live report page on kkvlabs.com yet;
-see `datasets/hvac/README.md`.
+[HVAC-INDEX-FINDINGS-2026-09-12.md]. Live report: https://www.kkvlabs.com/research/hvac-ai-visibility-index-2026 (published 15 Sep 2026);
+`cities.csv` matches its data.csv route.
 
 **Plumbers.** 60 cities, 443 homepages attempted, 409 read, 126 named versus 283 unnamed
 [plumbers-stack.json; PLUMBING-INDEX-FINDINGS-2026-09-15.md]. Only 144 of the 305 companies

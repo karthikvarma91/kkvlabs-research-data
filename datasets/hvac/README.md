@@ -4,10 +4,10 @@ What this is: a city-by-city read of whether Google AI Mode names an HVAC contra
 someone asks it a buying question, paired with a homepage technology and content crawl across
 the same industry.
 
-**This industry has no live public report page yet.** Unlike the other five industries in this
-release, kkvlabs.com does not yet publish a `/research/...` index page for HVAC, so there is no
-canonical URL to link and no live `data.csv` route to diff `cities.csv` against. This dataset
-was exported straight from the source JSON the same way the other five were.
+**Live report:** https://www.kkvlabs.com/research/hvac-ai-visibility-index-2026 (published 15 Sep
+2026). `cities.csv` was diffed against that page's `data.csv` route on 16 Sep 2026 and matches
+line for line (the live route carries one leading comment line). This dataset was exported from
+the same source JSON the other industries use.
 
 ## How this was collected
 
@@ -26,7 +26,7 @@ kkvlabs-outreach/tools/build_city_data.py].
 ## Files
 
 - `cities.csv`: one row per city with a captured AI answer, computed from `hvac-cities.json`
-  using the same column layout and filter the other five industries' live data.csv routes use
+  using the same column layout and filter the live data.csv routes use
   [hvac-cities.json].
 - `stack.csv`: one row per (section, name) technology or content signal, computed from
   `hvac-stack.json` [hvac-stack.json].
@@ -73,7 +73,7 @@ kkvlabs-outreach/tools/build_city_data.py].
   HVAC-INDEX-FINDINGS-2026-09-12.md's prose calls out "24 other failures" separately. These
   reconcile: the JSON bundles the doc's 24 other failures (dead TLS handshakes, timeouts, dead
   DNS) together with the 7 sites that answered but gave back nothing readable (24 + 7 = 31).
-- No canonical live report page exists yet for this industry; treat this dataset as pre-release
+- The live report page went up on 15 Sep 2026, three days after the crawl; figures on the page and here are the same edition
   until kkvlabs.com publishes `/research/hvac-ai-visibility-index-2026` (or similar).
 
 ## Canonical page
