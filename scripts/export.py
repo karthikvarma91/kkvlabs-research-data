@@ -69,6 +69,13 @@ INDUSTRIES = {
         "has_tier_note": True,
         "filter_named": True,
     },
+    "plumbers": {
+        "prefix": "plumbers",
+        "named_count_col": "companiesNamed",
+        "named_list_col": "namedCompanies",
+        "has_tier_note": True,
+        "filter_named": True,
+    },
 }
 
 

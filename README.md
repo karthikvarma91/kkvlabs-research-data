@@ -2,12 +2,14 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22765584.svg)](https://doi.org/10.5281/zenodo.22765584)
 
-September 2026 edition. Six industries, one question each: when someone asks Google AI Mode a
+September 2026 edition. Seven industries, one question each: when someone asks Google AI Mode a
 buying question in a given city, does it name a local business, and which one. Paired with a
 homepage technology and content crawl of the same industry, so a claim of visibility can be
 checked against what the business actually publishes. Each industry's dataset lives in
 `datasets/<industry>/` with a `cities.csv`, a `stack.csv`, a `meta.json` and its own `README.md`.
-The live reports (five of six industries) are at https://www.kkvlabs.com/research.
+The live reports are at https://www.kkvlabs.com/research. A separate, cross-industry dataset,
+`datasets/citation-sources/`, maps which domains an AI answer actually cites alongside the
+businesses it names; see its own README.
 
 All comparisons in every dataset here are same-day, not causes: a business named by the AI on
 the day of the check was named for many reasons the crawl cannot see. Read the per-industry
@@ -69,6 +71,28 @@ financing pages (68 vs 47 percent), blogs (72 vs 51), maintenance plan pages (42
 [HVAC-INDEX-FINDINGS-2026-09-12.md]. This industry has no live report page on kkvlabs.com yet;
 see `datasets/hvac/README.md`.
 
+**Plumbers.** 60 cities, 443 homepages attempted, 409 read, 126 named versus 283 unnamed
+[plumbers-stack.json; PLUMBING-INDEX-FINDINGS-2026-09-15.md]. Only 144 of the 305 companies
+Google AI Mode named across the 60 cities resolved to a real website at all, 47 percent, the
+lowest resolution rate of the seven trades in this project: a plumbing company's name is built
+almost entirely from category and shared-trade words, leaving a guessed hostname little to
+verify against [PLUMBING-INDEX-FINDINGS-2026-09-15.md]. Named plumbers run field service and
+dispatch software at more than double the rate of unnamed ones, 31 vs 13 percent, and carry an
+online booking route 56 vs 33 [PLUMBING-INDEX-FINDINGS-2026-09-15.md]. A licence or registration
+number sits on only 19 percent of homepages, though every one of these companies is required to
+hold one [PLUMBING-INDEX-FINDINGS-2026-09-15.md]. See `datasets/plumbers/README.md`.
+
+## Citation sources
+
+`datasets/citation-sources/` is a different shape of dataset: not a per-industry city crawl, but
+123 Google AI Mode answers (20 to 21 cities in each of the same six industries above, excluding
+plumbers) read for which domains they actually cited alongside the named businesses. The
+business's own site and its Google Business Profile are cited in 70 percent or more of answers
+in every industry; past those two, the directory that shows up changes by trade (Justia and
+Super Lawyers for law firms, Zocdoc and Healthgrades for dentists and chiropractors, Angi and
+Thumbtack for roofers) [CITATION-SOURCES-FINDINGS-2026-09-15.md]. See
+`datasets/citation-sources/README.md`.
+
 ## How to cite
 
 KKV Labs (2026). AI Local Visibility Index datasets, September 2026 edition. Karthik Varma, KKV
@@ -89,4 +113,6 @@ repository root with `python3 scripts/export.py` (Python 3, standard library onl
 
 ## Changelog
 
+- 2026-09-16: plumbers dataset added (seventh industry); citation-sources dataset added
+  (cross-industry, not a per-industry city crawl).
 - 2026-09-15: first release, 6 industries.

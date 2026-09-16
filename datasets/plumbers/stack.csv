@@ -1,0 +1,202 @@
+section,name,sites,share,namedShare,unnamedShare
+platform,WordPress,186,45,53,42
+platform,Custom or unknown,87,21,13,25
+platform,Duda,77,19,16,20
+platform,Wix,20,5,4,5
+platform,Squarespace,16,4,4,4
+platform,GoDaddy Website Builder,12,3,5,2
+platform,Webflow,7,2,3,1
+builders,Gutenberg blocks,169,41,49,38
+builders,Elementor,74,18,24,16
+builders,Divi,21,5,8,4
+builders,WPBakery,11,3,6,1
+builders,Beaver Builder,8,2,2,2
+vendors,Thryv,24,6,5,6
+vendors,HighLevel agency site,10,2,3,2
+vendors,RYNO Strategic Solutions,4,1,0,1
+vendors,Scorpion,2,0,1,0
+vendors,iMarket Solutions,2,0,1,0
+crm,ServiceTitan,45,11,13,10
+crm,ServiceTitan scheduler,31,8,10,6
+crm,Housecall Pro,21,5,13,2
+crm,Schedule Engine,16,4,6,3
+crm,Jobber,7,2,2,1
+chat,Podium,10,2,3,2
+chat,Birdeye,2,0,1,0
+chat,Tawk.to,2,0,0,1
+leadCapture,Contact Form 7,47,11,12,11
+leadCapture,Gravity Forms,39,10,14,7
+leadCapture,WPForms,21,5,9,4
+leadCapture,Formidable Forms,8,2,1,2
+leadCapture,JotForm,4,1,2,1
+pixels,Google Tag Manager,159,39,50,34
+pixels,Google Analytics 4,135,33,41,29
+pixels,Meta pixel,54,13,13,13
+pixels,Google Ads tag,52,13,17,11
+pixels,CallRail,28,7,10,6
+pixels,Microsoft Clarity,11,3,4,2
+pixels,Bing UET,9,2,2,2
+certifications,Years in business stated,231,56,53,58
+certifications,Family owned or locally owned stated,168,41,41,41
+certifications,Licensed and insured stated,149,36,35,37
+certifications,Backflow certified or cross-connection control,106,26,27,25
+certifications,Satisfaction guarantee stated,69,17,14,18
+certifications,Master Plumber on staff,69,17,18,16
+certifications,Background checked or drug tested technicians,34,8,8,8
+certifications,Journeyman plumber stated,7,2,2,2
+certifications,Veteran owned,6,1,2,1
+brands,Bradford White named,14,3,5,3
+brands,Navien named,14,3,2,4
+brands,Rinnai named,12,3,2,3
+brands,Rheem named,12,3,3,3
+brands,Moen named,9,2,2,2
+brands,A.O. Smith named,8,2,2,2
+brands,American Standard named,7,2,2,2
+brands,Noritz named,4,1,2,1
+brands,InSinkErator named,4,1,1,1
+brands,Delta Faucet named,3,1,0,1
+brands,Kohler named,3,1,1,1
+financing,Wisetack,8,2,2,2
+financing,GreenSky,6,1,2,1
+financing,Synchrony,2,0,1,0
+reviewWidgets,BBB seal,79,19,21,19
+reviewWidgets,Trustindex,34,8,13,6
+reviewWidgets,Angi or HomeAdvisor,30,7,8,7
+reviewWidgets,Elfsight,23,6,5,6
+reviewWidgets,Nextdoor Neighborhood Fave badge,10,2,2,2
+reviewWidgets,Google reviews badge,3,1,1,1
+social,Facebook,291,71,81,67
+social,Google Maps,219,54,54,53
+social,Instagram,130,32,41,28
+social,YouTube,80,20,30,15
+social,Yelp,74,18,21,17
+social,LinkedIn,61,15,19,13
+social,TikTok,13,3,3,3
+social,Nextdoor,10,2,2,3
+services,Water heater work,366,89,91,89
+services,Drain cleaning or clog removal,305,75,73,75
+services,Emergency or 24/7 service,265,65,63,65
+services,Commercial plumbing,216,53,43,57
+services,Leak detection,195,48,42,50
+services,"Water treatment, filtration or softener",184,45,47,44
+services,Sewer line repair or replacement,176,43,44,42
+services,Garbage disposal work,159,39,34,41
+services,Gas line work,159,39,38,39
+services,Upfront or flat rate pricing stated,154,38,36,39
+services,Faucet or fixture installation,144,35,33,36
+services,Free estimate or quote offered,139,34,25,38
+services,Sump pump work,137,33,39,31
+services,Hydro jetting,136,33,31,34
+services,Coupons or specials stated,131,32,35,31
+services,Residential plumbing,131,32,29,33
+services,Sewer or drain camera inspection,126,31,29,32
+services,Backflow testing or prevention,125,31,30,31
+services,Financing offered,119,29,35,27
+services,Repiping or repipe,118,29,26,30
+services,Toilet installation or repair,117,29,29,29
+services,Warranty language,87,21,25,20
+services,Water line installation or replacement,86,21,26,19
+services,New construction work,85,21,17,23
+services,Trenchless sewer or pipe lining,85,21,25,19
+services,Same day service stated,84,21,10,25
+services,Remodel or renovation plumbing,73,18,14,19
+services,Maintenance plan or membership club stated,67,16,20,15
+services,Septic system work,43,11,11,10
+services,Rebates or tax credits named,18,4,5,4
+services,Grease trap service,14,3,3,4
+services,No overtime charges stated,6,1,2,1
+weightBuckets,100 to 300 KB,182,44,52,41
+weightBuckets,under 100 KB,102,25,18,28
+weightBuckets,300 to 700 KB,100,24,22,25
+weightBuckets,700 KB to 1.5 MB,19,5,6,4
+weightBuckets,over 1.5 MB,6,1,2,1
+signals,Any field service or dispatch software detected,77,19,31,13
+signals,An online booking route on the homepage,163,40,56,33
+signals,"A live chat, text or answering widget",15,4,5,3
+signals,A form plugin detected,99,24,32,21
+signals,A plumbing website or marketing vendor detected,43,11,10,11
+signals,Any brand named,45,11,11,11
+signals,Any manufacturer dealer tier claimed,0,0,0,0
+signals,Rheem named,12,3,3,3
+signals,Moen named,9,2,2,2
+signals,Kohler named,3,1,1,1
+signals,A.O. Smith named,8,2,2,2
+signals,Bradford White named,14,3,5,3
+signals,Rinnai named,12,3,2,3
+signals,Navien named,14,3,2,4
+signals,Master Plumber on staff stated,69,17,18,16
+signals,Backflow certified or cross-connection control stated,106,26,27,25
+signals,Licensed and insured stated,149,36,35,37
+signals,A licence or registration number printed,79,19,19,19
+signals,Background checked or drug tested technicians stated,34,8,8,8
+signals,Years in business stated,231,56,53,58
+signals,Family owned or locally owned stated,168,41,41,41
+signals,Veteran owned stated,6,1,2,1
+signals,A satisfaction guarantee stated,69,17,14,18
+signals,Spanish offered,1,0,1,0
+signals,A maintenance plan or membership club stated,67,16,20,15
+signals,A maintenance plan or membership page linked,36,9,11,8
+signals,Emergency or 24/7 service stated,265,65,63,65
+signals,Same day service stated,84,21,10,25
+signals,A free estimate or quote offered,139,34,25,38
+signals,Financing offered,119,29,35,27
+signals,Any consumer lender detected,19,5,4,5
+signals,A financing page linked,83,20,25,18
+signals,Coupons or specials stated,131,32,35,31
+signals,A specials or coupons page linked,89,22,22,22
+signals,Rebates or tax credits named,18,4,5,4
+signals,Upfront or flat rate pricing stated,154,38,36,39
+signals,A service area page linked,138,34,40,31
+signals,A services page linked,193,47,55,44
+signals,A commercial page linked,117,29,25,30
+signals,A brands or equipment page linked,13,3,4,3
+signals,An about or team page linked,303,74,72,75
+signals,A testimonials or reviews page linked,150,37,41,35
+signals,"A schedule, quote or contact page linked",322,79,86,76
+signals,Any review widget or directory badge on the homepage,143,35,42,32
+signals,A directory profile or marketplace badge linked,98,24,25,23
+signals,An Angi or HomeAdvisor badge,30,7,8,7
+signals,A BBB seal,79,19,21,19
+signals,A review count shown on the homepage,50,12,14,11
+signals,A numeric star rating shown on the homepage,32,8,3,10
+signals,A video embedded on the homepage,64,16,17,15
+signals,A price of any kind shown or a pricing page linked,85,21,17,23
+signals,Any JSON-LD structured data,332,81,86,79
+signals,Business or local business schema,214,52,50,53
+signals,Plumbing or contractor schema specifically,128,31,26,34
+signals,Plumber schema exactly,120,29,23,32
+signals,LocalBusiness schema,102,25,25,25
+signals,Person schema for an owner or technician,55,13,16,12
+signals,"Only boilerplate schema (WebSite or Organization, no business type)",118,29,36,26
+signals,FAQPage schema,63,15,10,18
+signals,Review or AggregateRating schema,56,14,11,15
+signals,An FAQ on the homepage,131,32,29,34
+signals,A blog or articles section linked,209,51,52,51
+signals,A click to call phone link,377,92,94,92
+signals,Drain cleaning or clog removal stated,305,75,73,75
+signals,Hydro jetting stated,136,33,31,34
+signals,Sewer line repair or replacement stated,176,43,44,42
+signals,Trenchless sewer or pipe lining stated,85,21,25,19
+signals,Water heater work stated,366,89,91,89
+signals,Repiping or repipe stated,118,29,26,30
+signals,Leak detection stated,195,48,42,50
+signals,Gas line work stated,159,39,38,39
+signals,Sump pump work stated,137,33,39,31
+signals,Garbage disposal work stated,159,39,34,41
+signals,Backflow testing or prevention stated,125,31,30,31
+signals,"Water treatment, filtration or softener stated",184,45,47,44
+signals,Commercial plumbing stated,216,53,43,57
+signals,Residential plumbing stated,131,32,29,33
+signals,Septic system work stated,43,11,11,10
+signals,Meta pixel installed,54,13,13,13
+signals,Google Tag Manager installed,159,39,50,34
+signals,Google Analytics 4 installed,135,33,41,29
+signals,Google Ads conversion tag installed,52,13,17,11
+signals,Call tracking installed,30,7,11,6
+signals,Microsoft Clarity installed,11,3,4,2
+signals,Bing UET installed,9,2,2,2
+signals,Https,405,99,99,99
+signals,Mobile viewport tag,404,99,100,98
+signals,Copyright year 2026 in the footer,203,50,52,48
+signals,Copyright year 2023 or older,22,5,5,6
+signals,Says 'near me' somewhere on the homepage,20,5,3,6

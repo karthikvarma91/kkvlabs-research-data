@@ -1,0 +1,795 @@
+{
+  "method": {
+    "engine": "Google AI Mode (google.com/search?udm=50), logged in as the account owner via Chrome (not the in-app browser)",
+    "query_pattern": "best <industry singular> in <City, State>",
+    "collected_via": "get_page_text for the answer text + an in-page JS pass that dedupes every anchor href into a compact token (bare hostname for non-Google links; '<host>/maps' or '<host>/<first two path segments>' for google.* links)",
+    "capture_schema": "{query, cityState, capturedAt, text, linkTokens}"
+  },
+  "industries": {
+    "med-spas": {
+      "n_answers_captured": 21,
+      "n_foreign_files_skipped": 0,
+      "cities": [
+        "Albuquerque, NM",
+        "Ann Arbor, MI",
+        "Bakersfield, CA",
+        "Baton Rouge, LA",
+        "Columbia, SC",
+        "Edmond, OK",
+        "Frederick, MD",
+        "Fresno, CA",
+        "Lafayette, LA",
+        "Little Rock, AR",
+        "Mobile, AL",
+        "Montgomery, AL",
+        "Myrtle Beach, SC",
+        "Omaha, NE",
+        "Oshkosh, WI",
+        "Overland Park, KS",
+        "Portland, ME",
+        "Rochester, NY",
+        "Salisbury, MD",
+        "Tucson, AZ",
+        "Tulsa, OK"
+      ],
+      "capture_dates": [
+        "2026-09-15"
+      ],
+      "source_type_share": {
+        "Google profile (Maps/Business Profile)": {
+          "answers": 21,
+          "share_pct": 100.0
+        },
+        "Other directory/site": {
+          "answers": 20,
+          "share_pct": 95.2
+        },
+        "Business's own site": {
+          "answers": 20,
+          "share_pct": 95.2
+        },
+        "Yelp": {
+          "answers": 9,
+          "share_pct": 42.9
+        },
+        "Facebook": {
+          "answers": 4,
+          "share_pct": 19.0
+        },
+        "Reddit": {
+          "answers": 1,
+          "share_pct": 4.8
+        }
+      },
+      "top_domains": [
+        [
+          "google.com/maps",
+          21
+        ],
+        [
+          "yelp.com",
+          9
+        ],
+        [
+          "facebook.com",
+          4
+        ],
+        [
+          "nakedmd.com",
+          3
+        ],
+        [
+          "dashboard.boulevard.io",
+          2
+        ],
+        [
+          "na02.patientnow.com",
+          2
+        ],
+        [
+          "dynastydaymedspa.com",
+          1
+        ],
+        [
+          "alluraderm.com",
+          1
+        ],
+        [
+          "dermanimedspa.com",
+          1
+        ],
+        [
+          "stayflawless.com",
+          1
+        ],
+        [
+          "cslcbeauty.com",
+          1
+        ],
+        [
+          "revivajennz.com",
+          1
+        ],
+        [
+          "annarborplasticsurgery.com",
+          1
+        ],
+        [
+          "med1aesthetics.com",
+          1
+        ],
+        [
+          "theskinlabmedicalspa.com",
+          1
+        ]
+      ]
+    },
+    "roofers": {
+      "n_answers_captured": 20,
+      "n_foreign_files_skipped": 0,
+      "cities": [
+        "Akron, OH",
+        "Albany, NY",
+        "Alpharetta, GA",
+        "Annapolis, MD",
+        "Asheville, NC",
+        "Baton Rouge, LA",
+        "Bellingham, WA",
+        "Billings, MT",
+        "Biloxi, MS",
+        "Boca Raton, FL",
+        "Boulder, CO",
+        "Bozeman, MT",
+        "Buffalo, NY",
+        "Champaign, IL",
+        "Chandler, AZ",
+        "Charleston, SC",
+        "Chattanooga, TN",
+        "Chesapeake, VA",
+        "Cincinnati, OH",
+        "Colorado Springs, CO"
+      ],
+      "capture_dates": [
+        "2026-09-15"
+      ],
+      "source_type_share": {
+        "Business's own site": {
+          "answers": 20,
+          "share_pct": 100.0
+        },
+        "Google profile (Maps/Business Profile)": {
+          "answers": 19,
+          "share_pct": 95.0
+        },
+        "Other directory/site": {
+          "answers": 18,
+          "share_pct": 90.0
+        },
+        "Yelp": {
+          "answers": 7,
+          "share_pct": 35.0
+        },
+        "Angi": {
+          "answers": 7,
+          "share_pct": 35.0
+        },
+        "Reddit": {
+          "answers": 4,
+          "share_pct": 20.0
+        },
+        "Facebook": {
+          "answers": 1,
+          "share_pct": 5.0
+        }
+      },
+      "top_domains": [
+        [
+          "google.com/maps",
+          19
+        ],
+        [
+          "angi.com",
+          6
+        ],
+        [
+          "yelp.com",
+          5
+        ],
+        [
+          "reddit.com",
+          4
+        ],
+        [
+          "thumbtack.com",
+          4
+        ],
+        [
+          "m.yelp.com",
+          2
+        ],
+        [
+          "drocoroofing.com",
+          1
+        ],
+        [
+          "buckeyeguysroofing.net",
+          1
+        ],
+        [
+          "exteriorsplus.com",
+          1
+        ],
+        [
+          "altandaltneohio.com",
+          1
+        ],
+        [
+          "darrellyoderroofing.com",
+          1
+        ],
+        [
+          "blcroofingoh.com",
+          1
+        ],
+        [
+          "homeevolution.net",
+          1
+        ],
+        [
+          "perfectionroofingny.com",
+          1
+        ],
+        [
+          "albanybuildpros.com",
+          1
+        ]
+      ]
+    },
+    "dentists": {
+      "n_answers_captured": 20,
+      "n_foreign_files_skipped": 0,
+      "cities": [
+        "Albuquerque, NM",
+        "Bakersfield, CA",
+        "Carmel, IN",
+        "Clearwater, FL",
+        "Coeur d'Alene, ID",
+        "Colorado Springs, CO",
+        "Columbia, SC",
+        "Fresno, CA",
+        "Greensboro, NC",
+        "Lafayette, LA",
+        "Lubbock, TX",
+        "Midland, TX",
+        "Missoula, MT",
+        "Omaha, NE",
+        "Portland, ME",
+        "Roanoke, VA",
+        "Santa Rosa, CA",
+        "Shreveport, LA",
+        "Tulsa, OK",
+        "Waco, TX"
+      ],
+      "capture_dates": [
+        "2026-09-15"
+      ],
+      "source_type_share": {
+        "Google profile (Maps/Business Profile)": {
+          "answers": 18,
+          "share_pct": 90.0
+        },
+        "Other directory/site": {
+          "answers": 17,
+          "share_pct": 85.0
+        },
+        "Business's own site": {
+          "answers": 16,
+          "share_pct": 80.0
+        },
+        "Yelp": {
+          "answers": 8,
+          "share_pct": 40.0
+        },
+        "Zocdoc": {
+          "answers": 4,
+          "share_pct": 20.0
+        }
+      },
+      "top_domains": [
+        [
+          "google.com/maps",
+          18
+        ],
+        [
+          "yelp.com",
+          6
+        ],
+        [
+          "zocdoc.com",
+          4
+        ],
+        [
+          "m.yelp.com",
+          2
+        ],
+        [
+          "book.modento.io",
+          2
+        ],
+        [
+          "frankdds.com",
+          1
+        ],
+        [
+          "patientsreach.io",
+          1
+        ],
+        [
+          "bakersfieldsmiledesign.com",
+          1
+        ],
+        [
+          "salinbakersfielddentist.com",
+          1
+        ],
+        [
+          "capitaldentalgroup.com",
+          1
+        ],
+        [
+          "firstchoicedentistry.com",
+          1
+        ],
+        [
+          "valleygracedental.com",
+          1
+        ],
+        [
+          "imagedentalcarmel.com",
+          1
+        ],
+        [
+          "cornerstonedentistrycarmel.com",
+          1
+        ],
+        [
+          "dentistryon116.com",
+          1
+        ]
+      ]
+    },
+    "law-firms": {
+      "n_answers_captured": 21,
+      "n_foreign_files_skipped": 0,
+      "cities": [
+        "Augusta, GA",
+        "Billings, MT",
+        "Bowling Green, KY",
+        "Bridgeport, CT",
+        "Chattanooga, TN",
+        "Clarksville, TN",
+        "Evansville, IN",
+        "Fort Walton Beach, FL",
+        "Fort Wayne, IN",
+        "Green Bay, WI",
+        "Huntsville, AL",
+        "Idaho Falls, ID",
+        "Johnson City, TN",
+        "Jonesboro, AR",
+        "Modesto, CA",
+        "Pensacola, FL",
+        "Provo, UT",
+        "Salinas, CA",
+        "Sioux Falls, SD",
+        "Topeka, KS",
+        "Wichita, KS"
+      ],
+      "capture_dates": [
+        "2026-09-15"
+      ],
+      "source_type_share": {
+        "Other directory/site": {
+          "answers": 20,
+          "share_pct": 95.2
+        },
+        "Google profile (Maps/Business Profile)": {
+          "answers": 20,
+          "share_pct": 95.2
+        },
+        "Business's own site": {
+          "answers": 17,
+          "share_pct": 81.0
+        },
+        "Justia": {
+          "answers": 13,
+          "share_pct": 61.9
+        },
+        "Super Lawyers": {
+          "answers": 12,
+          "share_pct": 57.1
+        },
+        "Yelp": {
+          "answers": 6,
+          "share_pct": 28.6
+        },
+        "Best Lawyers": {
+          "answers": 1,
+          "share_pct": 4.8
+        },
+        "Facebook": {
+          "answers": 1,
+          "share_pct": 4.8
+        }
+      },
+      "top_domains": [
+        [
+          "google.com/maps",
+          20
+        ],
+        [
+          "justia.com",
+          13
+        ],
+        [
+          "superlawyers.com",
+          9
+        ],
+        [
+          "yelp.com",
+          3
+        ],
+        [
+          "m.yelp.com",
+          3
+        ],
+        [
+          "attorneys.superlawyers.com",
+          3
+        ],
+        [
+          "hughesandcoleman.com",
+          2
+        ],
+        [
+          "silvainjurylaw.com",
+          2
+        ],
+        [
+          "devaughnjames.com",
+          2
+        ],
+        [
+          "burnsidefirm.com",
+          1
+        ],
+        [
+          "jamiecasinoinjuryattorneys.com",
+          1
+        ],
+        [
+          "nmjfirm.com",
+          1
+        ],
+        [
+          "chrishudsonlaw.com",
+          1
+        ],
+        [
+          "maj.law",
+          1
+        ],
+        [
+          "lawmontana.com",
+          1
+        ]
+      ]
+    },
+    "chiropractors": {
+      "n_answers_captured": 20,
+      "n_foreign_files_skipped": 0,
+      "cities": [
+        "Augusta, GA",
+        "Carmel, IN",
+        "Clearwater, FL",
+        "Coeur d'Alene, ID",
+        "Columbia, SC",
+        "Daytona Beach, FL",
+        "El Paso, TX",
+        "Gilbert, AZ",
+        "Lafayette, LA",
+        "Little Rock, AR",
+        "Midland, TX",
+        "Missoula, MT",
+        "Omaha, NE",
+        "Overland Park, KS",
+        "Panama City, FL",
+        "Portland, ME",
+        "Roanoke, VA",
+        "Rochester, NY",
+        "Savannah, GA",
+        "Tulsa, OK"
+      ],
+      "capture_dates": [
+        "2026-09-15"
+      ],
+      "source_type_share": {
+        "Google profile (Maps/Business Profile)": {
+          "answers": 20,
+          "share_pct": 100.0
+        },
+        "Other directory/site": {
+          "answers": 18,
+          "share_pct": 90.0
+        },
+        "Business's own site": {
+          "answers": 14,
+          "share_pct": 70.0
+        },
+        "Yelp": {
+          "answers": 11,
+          "share_pct": 55.0
+        },
+        "Healthgrades": {
+          "answers": 7,
+          "share_pct": 35.0
+        },
+        "Zocdoc": {
+          "answers": 7,
+          "share_pct": 35.0
+        },
+        "Facebook": {
+          "answers": 1,
+          "share_pct": 5.0
+        }
+      },
+      "top_domains": [
+        [
+          "google.com/maps",
+          20
+        ],
+        [
+          "yelp.com",
+          9
+        ],
+        [
+          "healthgrades.com",
+          7
+        ],
+        [
+          "zocdoc.com",
+          7
+        ],
+        [
+          "thejoint.com",
+          5
+        ],
+        [
+          "m.yelp.com",
+          3
+        ],
+        [
+          "tuffspine.com",
+          1
+        ],
+        [
+          "magnoliachirocsra.com",
+          1
+        ],
+        [
+          "thigpenchiro.com",
+          1
+        ],
+        [
+          "chiropractic4augusta.com",
+          1
+        ],
+        [
+          "augustachiro.com",
+          1
+        ],
+        [
+          "championwellness.com",
+          1
+        ],
+        [
+          "clearwaterspine.com",
+          1
+        ],
+        [
+          "gobeyondbones.com",
+          1
+        ],
+        [
+          "arketypehealth.com",
+          1
+        ]
+      ]
+    },
+    "hvac": {
+      "n_answers_captured": 21,
+      "n_foreign_files_skipped": 0,
+      "cities": [
+        "Abilene, TX",
+        "Aiken, SC",
+        "Albany, NY",
+        "Allentown, PA",
+        "Alpharetta, GA",
+        "Appleton, WI",
+        "Bakersfield, CA",
+        "Bend, OR",
+        "Billings, MT",
+        "Biloxi, MS",
+        "Bismarck, ND",
+        "Boise, ID",
+        "Bozeman, MT",
+        "Buffalo, NY",
+        "Cary, NC",
+        "Castle Rock, CO",
+        "Champaign, IL",
+        "Chandler, AZ",
+        "Charleston, SC",
+        "Chico, CA",
+        "Colorado Springs, CO"
+      ],
+      "capture_dates": [
+        "2026-09-15"
+      ],
+      "source_type_share": {
+        "Google profile (Maps/Business Profile)": {
+          "answers": 21,
+          "share_pct": 100.0
+        },
+        "Other directory/site": {
+          "answers": 20,
+          "share_pct": 95.2
+        },
+        "Business's own site": {
+          "answers": 19,
+          "share_pct": 90.5
+        },
+        "Yelp": {
+          "answers": 9,
+          "share_pct": 42.9
+        },
+        "Local/national news": {
+          "answers": 1,
+          "share_pct": 4.8
+        },
+        "Reddit": {
+          "answers": 1,
+          "share_pct": 4.8
+        },
+        "Facebook": {
+          "answers": 1,
+          "share_pct": 4.8
+        }
+      },
+      "top_domains": [
+        [
+          "google.com/maps",
+          21
+        ],
+        [
+          "yelp.com",
+          8
+        ],
+        [
+          "book.servicetitan.com",
+          2
+        ],
+        [
+          "wrightchoicehvac.com",
+          1
+        ],
+        [
+          "westtxcoolguys.com",
+          1
+        ],
+        [
+          "qualitycool.com",
+          1
+        ],
+        [
+          "profloair.com",
+          1
+        ],
+        [
+          "legitheatingandair.com",
+          1
+        ],
+        [
+          "olympuselectricandair.com",
+          1
+        ],
+        [
+          "cuttingedgeair.com",
+          1
+        ],
+        [
+          "mrcentral.com",
+          1
+        ],
+        [
+          "aikenhvacllc.com",
+          1
+        ],
+        [
+          "holleyheatingandair.com",
+          1
+        ],
+        [
+          "kimballs.biz",
+          1
+        ],
+        [
+          "carolina-hvac.com",
+          1
+        ]
+      ]
+    }
+  },
+  "top_domains_overall": [
+    [
+      "google.com/maps",
+      119
+    ],
+    [
+      "yelp.com",
+      40
+    ],
+    [
+      "justia.com",
+      13
+    ],
+    [
+      "m.yelp.com",
+      11
+    ],
+    [
+      "zocdoc.com",
+      11
+    ],
+    [
+      "superlawyers.com",
+      9
+    ],
+    [
+      "facebook.com",
+      8
+    ],
+    [
+      "thumbtack.com",
+      7
+    ],
+    [
+      "healthgrades.com",
+      7
+    ],
+    [
+      "reddit.com",
+      6
+    ],
+    [
+      "angi.com",
+      6
+    ],
+    [
+      "thejoint.com",
+      5
+    ],
+    [
+      "nakedmd.com",
+      3
+    ],
+    [
+      "attorneys.superlawyers.com",
+      3
+    ],
+    [
+      "dashboard.boulevard.io",
+      2
+    ]
+  ],
+  "total_answers_captured": 123,
+  "total_foreign_files_skipped": 0
+}
