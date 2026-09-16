@@ -78,4 +78,4 @@ kkvlabs-outreach/tools/build_city_data.py].
 
 ## Canonical page
 
-Not yet published on kkvlabs.com.
+https://www.kkvlabs.com/research/hvac-ai-visibility-index-2026
